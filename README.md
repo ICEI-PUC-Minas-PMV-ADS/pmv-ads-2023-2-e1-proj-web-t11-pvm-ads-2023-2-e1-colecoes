@@ -6,7 +6,7 @@
 
 `1º Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Surge então a necessidade de encontrar soluções criativas e eficazes para desafios cotidianos. Uma das áreas em que essa necessidade se destaca é a organização de itens colecionáveis. A crescente paixão por colecionar objetos ou artefatos exclusivos, cria a demanda por métodos mais avançados de gerenciamento e catalogação. 
 
 ## Integrantes
 
