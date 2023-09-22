@@ -1,25 +1,25 @@
-# Título do Projeto
+# Colecionar com significado: Um ambiente digital para valorizar a individualidade e a importância da centralização de informações dentro da comunidade colecionadora 
 
 `CURSO`
 
-`DISCIPLINA`
+`Eixo 1 - Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`1º Semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
-
+* Aliane Elias Amaral
+* Caio Eduardo Teixeira Santiago
+* Gabriela Bretas Duarte Monteiro
+* João Gabriel Barrozo Rocha
+* Lucas Alves de Souza
+* Mylena Oliveira Silva
+  
 ## Orientador
 
-* Nome completo do professor
+* Clóvis Lemos Tavares 
 
 # Documentação
 
