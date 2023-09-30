@@ -21,14 +21,7 @@
 </table>
 
 
-|                           Perfil Nome          |
-|Perfil Administrador                            |
-|Descrição: | Usuário responsável pelo gerenciamento e abastecimento do site. |
-|Necessidades: | Ter conhecimento sobre como o site está sendo utilizado e qual está sendo sua movimentação. 
 
-Gerenciar fotos e descrições dos itens para manter um conteúdo de qualidade. 
-
-Gerenciar histórias   |
 
 
 ## Histórias de Usuários
