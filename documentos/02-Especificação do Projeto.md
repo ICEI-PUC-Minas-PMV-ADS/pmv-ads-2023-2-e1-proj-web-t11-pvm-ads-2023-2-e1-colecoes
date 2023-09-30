@@ -32,9 +32,9 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-|EXIBICIONISTA       | Exibir minhas miniaturas em ordem de maior valor. | Quanto maior o valor mais raro o item é. |
-|APRECIADOR          | Identificar o item com maior visualização.  | Desta forma saberei qual item que mais agradou os colecionadores.  |
-|PESQUISADOR         | Identificar o item de maior interesse dentre a visualização.  | Possibilitando a opção de compra de determinado item para colecionadores  
+|ADMINISTRADOR       | consultar chamados de suporte abertos. | fornecer suporte para os usuários e ter conhecimento dos problemas que estão ocorrendo com os clientes na plataforma . |
+|ADMINISTRADOR.      | alterar tela principal de notícias.| manter o site atualizado com informações verificadas e atualizadas do momento  |
+|ADMINISTRADOR       | fornecer imagens de itens ou analisar imagens pendentes de aprovação, sugeridas pelos usuários clientes.  | Possibilitando a opção de compra de determinado item para colecionadores  
 
  
 
