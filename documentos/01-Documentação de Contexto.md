@@ -36,11 +36,13 @@ Detalhamento personalizado: Proporcionaremos aos usuários a capacidade de inser
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+A criação de um site para a organização e catalogação de itens colecionáveis é uma iniciativa que se mostra cada vez mais relevante em um cenário em que a tecnologia desempenha um papel fundamental na otimização de processos e na promoção da acessibilidade. Destaca-se que através da catalogação vai ser possível, criar um canal de organização. 
+ 
+Um canal de comunicação estruturado, que veicula mensagens contidas nos itens, e sobre os itens, de um ou vários acervos, apresentando-as sob forma codificada e organizada, agrupadas por semelhanças, aos usuários desse(s) acervo(s) (MEY, 1995, p. 9) 
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
+A justificativa para este trabalho está fundamentada na necessidade de abordar os desafios enfrentados por colecionadores em relação à gestão de suas valiosas coleções, e na oportunidade de fornecer uma solução eficaz através de uma plataforma digital dedicada. 
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A crescente popularidade da prática de colecionar itens de diversos tipos, desde antiguidades até artigos contemporâneos, revela a importância cultural e emocional dessas coleções. No entanto, os colecionadores muitas vezes se deparam com dificuldades ao organizar, catalogar e acessar seus itens de maneira eficiente, além de registrar suas histórias de forma personalizada. A abordagem manual pode ser demorada, sujeita a erros e limitada em sua capacidade de fornecer informações detalhadas. 
 
 ## Público-Alvo
 
