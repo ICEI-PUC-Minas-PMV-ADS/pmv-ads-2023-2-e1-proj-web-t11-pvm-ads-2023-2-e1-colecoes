@@ -32,7 +32,7 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-|....                | ...                       | ...                              |
+|EXIBICIONISTA  | Exibir minhas miniaturas em ordem de maior valor. | Quanto maior o valor mais raro o item é. |
 | ...                | ...                       | ...                              |
 
 ## Requisitos do Projeto
