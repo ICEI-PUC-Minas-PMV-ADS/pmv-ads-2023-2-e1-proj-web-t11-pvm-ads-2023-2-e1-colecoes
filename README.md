@@ -1,6 +1,6 @@
 # Colecionar com significado: Um ambiente digital para valorizar a individualidade e a importância da centralização de informações dentro da comunidade colecionadora 
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
 `Eixo 1 - Projeto: Desenvolvimento de Aplicação Web Front-End`
 
