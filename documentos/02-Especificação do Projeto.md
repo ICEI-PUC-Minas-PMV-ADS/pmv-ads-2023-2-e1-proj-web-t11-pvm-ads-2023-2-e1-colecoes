@@ -44,7 +44,6 @@
 
 ### Requisitos Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
@@ -61,7 +60,6 @@
 
 ### Requisitos não Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
