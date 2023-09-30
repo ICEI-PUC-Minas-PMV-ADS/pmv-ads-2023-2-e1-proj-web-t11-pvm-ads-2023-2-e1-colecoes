@@ -73,9 +73,7 @@ De forma que fiquem mais eternizadas, fácil de consulta, evitar perdas e preser
 | RNF-01 |A aplicação deve ser compatível a meios de compartilhamento Web. |Média | 
 | RNF-02 |Aplicação deve permitir visualização em dispositivos diversos.  |Alta  |
 | RNF-03 |Compatível com os principais navegadores disponível no mercado.  |Alta  |
-| RNF-04 |A aplicação deve ser compatível com os navegadores O site
-deve ser compatível com os principais navegadores do
-mercado: Google Chrome, Firefox e Microsoft Edge.  |Alta  |
+| RNF-04 |A aplicação deve ser compatível com os navegadores O site deve ser compatível com os principais navegadores domercado: Google Chrome, Firefox e Microsoft Edge.|Alta  |
 
 **Prioridade: Alta / Média / Baixa. 
 
