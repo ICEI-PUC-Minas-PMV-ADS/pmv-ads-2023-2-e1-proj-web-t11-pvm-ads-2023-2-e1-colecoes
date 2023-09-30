@@ -32,8 +32,16 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-|EXIBICIONISTA  | Exibir minhas miniaturas em ordem de maior valor. | Quanto maior o valor mais raro o item é. |
+|EXIBICIONISTA       | Exibir minhas miniaturas em ordem de maior valor. | Quanto maior o valor mais raro o item é. |
+|APRECIADOR          | Identificar o item com maior visualização.  | Desta forma saberei qual item que mais agradou os colecionadores.  |
+|PESQUISADOR         | Identificar o item de maior interesse dentre a visualização.  | Possibilitando a opção de compra de determinado item para colecionadores  
+
+ 
+
+De forma que fiquem mais eternizadas, fácil de consulta, evitar perdas e preservar a integridade |
 | ...                | ...                       | ...                              |
+
+
 
 ## Requisitos do Projeto
 
