@@ -30,3 +30,9 @@ Entre os principais segmentos desse público estão:
  
 1. Fãs de Cultura Pop: Inclui pessoas que são apaixonadas por filmes, séries, desenhos animados e outras formas de entretenimento. Esse grupo costuma se envolver ativamente em discussões sobre enredos, personagens e teorias relacionadas. 
 2. Colecionadores: Entusiastas que têm um interesse especial em acumular itens relacionados ao mundo geek, como action figures, quadrinhos, cartas de jogos colecionáveis, entre outros. 
+3. Gamers: Buscam produtos relacionados aos seus jogos favoritos, como edições especiais e itens temáticos. 
+4. Fãs de Quadrinhos: Busca não apenas os quadrinhos em si, mas também produtos relacionados aos personagens e universos presentes nas HQ’s. 
+5. Cosplayers: Indivíduos que adoram se vestir e se caracterizar como personagens de filmes, séries, jogos e quadrinhos. Eles podem estar em busca de acessórios e itens que auxiliem em suas representações. 
+6. Aficionados por Fantasia e Ficção Científica: Esse grupo valoriza mundos fictícios ricos em elementos fantasiosos e científicos, como "O Senhor dos Anéis", "Star Wars", "Star Trek" e outras do gênero. 
+7. Comunidade Online: Uma parte significativa do público geek está ativamente envolvida em comunidades online, participando de fóruns, redes sociais e plataformas de discussão para compartilhar suas paixões e interagir com outros membros. 
+8. Adultos Jovens e Jovens Adultos: Embora o mundo geek seja atemporal, muitos dos entusiastas pertencem às faixas etárias mais jovens e jovens adultos, que possuem uma maior taxa de acessos aos produtos online. 
