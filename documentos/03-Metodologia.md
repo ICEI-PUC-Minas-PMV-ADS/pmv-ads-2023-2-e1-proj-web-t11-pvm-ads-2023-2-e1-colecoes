@@ -13,10 +13,13 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
 
- °Scrum Master: Aliane Elias Amaral.
- °Product Owner: Lucas Alves de Souza.
- °Equipe de Desenvolvimento: Aliane Elias Amaral, Gabriela Bretas Duarte Monteiro, João Gabriel Barrozo Rocha, Lucas Alves de Souza, Mylena Oliveira Silva.
- °Equipe de Design: Gabriela Bretas Duarte Monteiro.
+ ° Scrum Master: Aliane Elias Amaral.
+
+ ° Product Owner: Lucas Alves de Souza.
+
+ ° Equipe de Desenvolvimento: Aliane Elias Amaral, Gabriela Bretas Duarte Monteiro, João Gabriel Barrozo Rocha, Lucas Alves de Souza, Mylena Oliveira Silva.
+
+ ° Equipe de Design: Gabriela Bretas Duarte Monteiro.
 
 
 ### Processo
