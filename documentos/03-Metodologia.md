@@ -13,13 +13,13 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
 
- ° Scrum Master: Aliane Elias Amaral.
+  ° Scrum Master: Aliane Elias Amaral.
 
- ° Product Owner: Lucas Alves de Souza.
+  ° Product Owner: Lucas Alves de Souza.
 
- ° Equipe de Desenvolvimento: Aliane Elias Amaral, Gabriela Bretas Duarte Monteiro, João Gabriel Barrozo Rocha, Lucas Alves de Souza, Mylena Oliveira Silva.
+  ° Equipe de Desenvolvimento: Aliane Elias Amaral, Gabriela Bretas Duarte Monteiro, João Gabriel Barrozo Rocha, Lucas Alves de Souza, Mylena Oliveira Silva.
 
- ° Equipe de Design: Gabriela Bretas Duarte Monteiro.
+  ° Equipe de Design: Gabriela Bretas Duarte Monteiro.
 
 
 ### Processo
@@ -35,6 +35,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 > - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
 > - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
+
 
 
 ### Etiquetas
