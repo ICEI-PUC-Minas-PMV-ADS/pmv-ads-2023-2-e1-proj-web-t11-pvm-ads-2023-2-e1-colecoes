@@ -53,8 +53,8 @@ De forma que fiquem mais eternizadas, fácil de consulta, evitar perdas e preser
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
+| RF-01 |O site deve constar um sistema de avaliação por item.|Média  | 
+| RF-02 |O site deve ter uma lista de desejos. |Baixa  |
 
 
 
