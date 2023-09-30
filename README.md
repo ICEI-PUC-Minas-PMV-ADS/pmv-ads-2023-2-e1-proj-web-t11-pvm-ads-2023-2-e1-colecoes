@@ -4,9 +4,9 @@
 
 `Eixo 1 - Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`1º Semestre/2023`
+`2º Semestre/2023`
 
-Surge então a necessidade de encontrar soluções criativas e eficazes para desafios cotidianos. Uma das áreas em que essa necessidade se destaca é a organização de itens colecionáveis. A crescente paixão por colecionar objetos ou artefatos exclusivos, cria a demanda por métodos mais avançados de gerenciamento e catalogação. 
+Surge a necessidade de encontrar soluções criativas e eficazes para desafios cotidianos. Uma das áreas em que essa necessidade se destaca é a organização de itens colecionáveis. A crescente paixão por colecionar objetos ou artefatos exclusivos, cria a demanda por métodos mais avançados de gerenciamento e catalogação. 
 
 ## Integrantes
 
