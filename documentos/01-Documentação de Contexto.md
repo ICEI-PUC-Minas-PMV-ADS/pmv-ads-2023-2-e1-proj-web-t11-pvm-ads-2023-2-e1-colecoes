@@ -24,5 +24,9 @@ Este link pode ajudar a equipe a formular a justificativa: [Como montar a justif
 
 ## Público-Alvo
 
-[A temática do mundo geek abrange uma ampla gama de interesses, que incluem cultura pop, filmes, séries, quadrinhos, jogos eletrônicos e outros elementos que despertam a paixão dos aficionados por essa cultura única.  
-Entre os principais segmentos desse público estão: 
+A temática do mundo geek abrange uma ampla gama de interesses, que incluem cultura pop, filmes, séries, quadrinhos, jogos eletrônicos e outros elementos que despertam a paixão dos aficionados por essa cultura única.  
+
+Entre os principais segmentos desse público estão:
+ 
+1. Fãs de Cultura Pop: Inclui pessoas que são apaixonadas por filmes, séries, desenhos animados e outras formas de entretenimento. Esse grupo costuma se envolver ativamente em discussões sobre enredos, personagens e teorias relacionadas. 
+2. Colecionadores: Entusiastas que têm um interesse especial em acumular itens relacionados ao mundo geek, como action figures, quadrinhos, cartas de jogos colecionáveis, entre outros. 
