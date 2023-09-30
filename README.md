@@ -1,17 +1,16 @@
-# Colecionar com significado: Um ambiente digital para valorizar a individualidade e a importância da centralização de informações dentro da comunidade colecionadora 
+# Colecionar com Significado
 
 `Análise e Desenvolvimento de Sistemas - PUC Minas`
 
 `Eixo 1 - Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`1º Semestre`
+`1º Semestre/2023`
 
 Surge então a necessidade de encontrar soluções criativas e eficazes para desafios cotidianos. Uma das áreas em que essa necessidade se destaca é a organização de itens colecionáveis. A crescente paixão por colecionar objetos ou artefatos exclusivos, cria a demanda por métodos mais avançados de gerenciamento e catalogação. 
 
 ## Integrantes
 
 * Aliane Elias Amaral
-* Caio Eduardo Teixeira Santiago
 * Gabriela Bretas Duarte Monteiro
 * João Gabriel Barrozo Rocha
 * Lucas Alves de Souza
