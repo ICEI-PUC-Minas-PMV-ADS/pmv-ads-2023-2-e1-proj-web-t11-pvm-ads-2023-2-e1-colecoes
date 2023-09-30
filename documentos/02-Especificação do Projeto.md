@@ -56,7 +56,9 @@ De forma que fiquem mais eternizadas, fácil de consulta, evitar perdas e preser
 | RF-01 |O site deve constar um sistema de avaliação por item.|Média  | 
 | RF-02 |O site deve ter uma lista de desejos. |Baixa |
 | RF-03 |O site deve permitir um cadastro de conta.  |Alta  |
-
+| RF-04 |Deve permitir o usuário fazer login em sua conta. |Alta  |
+| RF-05 |O site deve constar um sistema de adicionar outro usuário. |Média  |
+| RF-06 |O site deve permitir o cadastro de fotos e descrição dos itens. |Alta  |
 
 
 
@@ -68,8 +70,10 @@ De forma que fiquem mais eternizadas, fácil de consulta, evitar perdas e preser
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
+| RNF-01 |A aplicação deve ser compatível a meios de compartilhamento Web. |Média | 
+| RNF-02 |Aplicação deve permitir visualização em dispositivos diversos.  |Alta  |
+| RNF-03 |Compatível com os principais navegadores disponível no mercado.  |Alta  |
+| RNF-04 |A aplicação deve ser compatível com os navegadores O site deve ser compatível com os principais navegadores domercado: Google Chrome, Firefox e Microsoft Edge.|Alta  |
 
 **Prioridade: Alta / Média / Baixa. 
 
