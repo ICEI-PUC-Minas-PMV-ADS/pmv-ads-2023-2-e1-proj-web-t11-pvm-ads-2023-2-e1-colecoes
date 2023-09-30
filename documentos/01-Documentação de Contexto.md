@@ -10,9 +10,13 @@ Este link pode ajudar a equipe a entender mais sobre definição do problema: [O
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+Facilitar a organização: A base do nosso projeto é a criação de um ambiente virtual que permita aos usuários categorizarem e organizar seus colecionáveis de maneira intuitiva e personalizada. Com a capacidade de criar coleções específicas para diferentes tipos de itens, os usuários poderão manter um controle claro sobre o que possuem. 
+
+Interface amigável: A usabilidade será uma prioridade, garantindo que nossa plataforma seja acessível mesmo para usuários com diferentes níveis de experiência tecnológica. Uma interface intuitiva e design responsivo garantirão uma experiência positiva e facilitada para todos os visitantes. 
+
+União da comunidade: Muitos colecionadores desejam compartilhar suas coleções com outros entusiastas além de ser uma forma de trocar conhecimento uns aos outros. Portanto, queremos disponibilizar uma área para interação com outros usuários/colecionadores, favorecendo a sensação de pertencimento. 
+
+Detalhamento personalizado: Proporcionaremos aos usuários a capacidade de inserir informações detalhadas sobre cada item em suas coleções. Incluirá descrições, datas de aquisição, valores (R$) e até histórias pessoais relacionadas a cada objeto, dessa forma, os colecionadores terão um registro completo de sua jornada. 
 
 ## Justificativa
 
