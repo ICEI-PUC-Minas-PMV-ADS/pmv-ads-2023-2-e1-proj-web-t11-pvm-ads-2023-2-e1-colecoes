@@ -1,4 +1,4 @@
-# Colecionar com Significado
+# A coleção
 
 `Análise e Desenvolvimento de Sistemas - PUC Minas`
 
