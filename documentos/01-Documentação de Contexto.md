@@ -2,7 +2,7 @@
 
 No mundo atual, onde a tecnologia permeia todos os aspectos de nossa vida e de acordo com Castells (1999) com o avanço tecnológico e as mudanças na sociedade estão relacionadas, embora “a tecnologia não determine a sociedade e nem a sociedade escreva o curso da transformação tecnológica” (p. 25). 
 
-                        A tecnologia é o pano de fundo, o próprio quadro referencial, no qual todos os                         outros fenômenos sociais ocorrem. Ela molda nossa mentalidade, nossa linguagem,                           nossa maneira de estruturar o pensamento, inclusive a nossa maneira de valorar.                           [...] Por outro lado, toda cultura tem seus valores arraigados. Esses valores                             são questionados na medida em que a sociedade tecnológica evolui (RODRIGUES,2001, p. 76-77). 
+A tecnologia é o pano de fundo, o próprio quadro referencial, no qual todos os outros fenômenos sociais ocorrem. Ela molda nossa mentalidade, nossa linguagem, nossa maneira de estruturar o pensamento,inclusive a nossa maneira de valorar.[...] Por outro lado, toda cultura tem seus valores arraigados. Esses valores são questionados na medida em que a sociedade tecnológica evolui (RODRIGUES,2001, p. 76-77). 
 
 Surge então a necessidade de encontrar soluções criativas e eficazes para desafios cotidianos. Uma das áreas em que essa necessidade se destaca é a organização de itens colecionáveis. A crescente paixão por colecionar objetos ou artefatos exclusivos, cria a demanda por métodos mais avançados de gerenciamento e catalogação.  
 
