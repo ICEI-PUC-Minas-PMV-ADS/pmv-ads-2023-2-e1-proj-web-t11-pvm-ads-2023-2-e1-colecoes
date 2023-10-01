@@ -88,9 +88,19 @@ Ter acesso ao seu perfil próprio, onde consiga visualizar seus catálogos, amig
 | RF-09 |No Gerenciamento de Chamados, o perfil administrador deve ter um campo de resolução do chamado e de alterar status do chamado.|Alta |
 | RF-10 |Na tela de Alteração de Banners, o perfil administrador deve conseguir fazer upload da imagem, escolher quantos imagens terão.|Média |
 | RF-11 |Todos os campos no cadastro e login devem ser obrigatórios.|Média |
-
-
-
+| RF-12 |A tela de abertura de chamado, deve ter um campo de Descrição e selecionar opções no campo Assunto como: Desejo reportar um problema no sistema; Desejo fazer uma denúncia; Enviar uma sugestão; Outros assuntos.|Média |
+| RF-13 |Na abertura de chamado deve-se permitir anexar uma imagem.|Média |
+| RF-14 |Todos os tipos de perfis após logados, na tela interna, terão um menu lateral esquerdo com as funções disponíveis. |Média |
+| RF-15 |A tela Minhas Coleções deverá apresentar os botões: Filtrar Pastas por Ordem Alfabética e Criar Nova Pasta.|Baixa |
+| RF-16 |A tela Meus Chamados, deve permitir consultar o status dos seus chamados.|Média |
+| RF-17 |A tela Caixa de Entrada deve permitir enviar, receber e visualizar mensagens de texto.|Média |
+| RF-18 |A tela de Alterar Foto deve ser apresentada ao clicar em Alterar Foto no menu esquerdo. |Baixa |
+| RF-19 |A tela interna de uma pasta deve apresentar os botões: Filtrar Pastas por Ordem Alfabética e Adicionar Novo Item.|Média |
+| RF-20 |O botão de Adicionar Novo Item só poderá aparecer quando o usuário estiver na tela dentro de uma pasta.|Alta |
+| RF-21 |A tela Meus Chamados, deve permitir consultar o status dos seus chamados.|Alta |
+| RF-22 |A tela de Adicionar Novo Item deverão ter os campos: Título do Item; Categoria; Descrição; Data de Aquisição; História da Aquisição; Avaliação Pessoal; Foto Personalizada; Origem/Autor.|Alta |
+| RF-23 |Ao clicar no nome de outro usuário, a aplicação deve ser redirecionada para a tela de Perfil desse usuário.|Média |
+| RF-24 |A tela Perfil será apenas para exposição, sem botões ou interações, nessa tela será apresentada somente: Nome do Usuário; Foto; Itens (separados pela categoria).  .|Baixa |
 
 
 **Prioridade: Alta / Média / Baixa. 
@@ -100,13 +110,13 @@ Ter acesso ao seu perfil próprio, onde consiga visualizar seus catálogos, amig
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |A aplicação deve ser compatível a meios de compartilhamento Web. |Média | 
-| RNF-02 |Aplicação deve permitir visualização em dispositivos diversos.  |Alta  |
-| RNF-03 |Compatível com os principais navegadores disponível no mercado.  |Alta  |
-| RNF-04 |A aplicação deve ser compatível com os navegadores O site deve ser compatível com os principais navegadores domercado: Google Chrome, Firefox e Microsoft Edge.|Alta  |
-| RNF-05 |Os relatórios devem ter a opção de imprimir. |Média |
-| RNF-06 |Os relatórios devem ter a opção de exportar para o Excel.|Média |
-| RNF-07 |Os relatórios devem ter filtros. |Alta |
+| RNF-01 |Aplicação deve permitir visualização em dispositivos diversos. |Média | 
+| RNF-02 |Aplicação deve permitir meios de compartilhamento Web.  |Alta  |
+| RNF-03 |Os Gerenciamento de Chamados deve ter a opção de importar para Excel. |Alta  |
+| RNF-04 |Na tela Gerenciamento de Chamados deve ter a opção de imprimir. |Média |  
+| RNF-05 |A aplicação deve ser compatível com os navegadores. Deve ser compatível com os principais navegadores do mercado: Google Chrome, Firefox e Microsoft Edge. |Alta |
+| RNF-06 |A aplicação deve ter bom nível de contraste entre os elementos da tela.|Média |
+| RNF-07 |A aplicação web deve possuir um bom desempenho de tempo. Estimativa: Processamento de telas em até 15 segundos. |Média |
 
 **Prioridade: Alta / Média / Baixa. 
 
