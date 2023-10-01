@@ -3,7 +3,7 @@
 
 ## User Flow
 
-A figura 1 abaixo apresenta um percurso de interação do usuário através das interfaces do sistema. Uma análise detalhada de cada uma dessas interfaces está disponível na seção a seguir intitulada 'Protótipo de Baixa Fidelidade'. Se desejar visualizar o protótipo em ação, <a href="https://marvelapp.com/prototype/7ae7e10"> clique aqui para acessar o nosso protótipo <a href="https://marvelapp.com/prototype/7ae7e10">ambiente MarvelApp</a>.
+A figura 1 abaixo apresenta um percurso de interação do usuário através das interfaces do sistema. Uma análise detalhada de cada uma dessas interfaces está disponível na seção a seguir intitulada 'Protótipo de Baixa Fidelidade'. Se desejar visualizar o protótipo em ação, <a href="https://marvelapp.com/prototype/7ae7e10"> clique aqui para acessar o nosso protótipo no ambiente MarvelApp</a>.
 
 Figura 1 - Fluxo de Telas da Aplicação Web
 
