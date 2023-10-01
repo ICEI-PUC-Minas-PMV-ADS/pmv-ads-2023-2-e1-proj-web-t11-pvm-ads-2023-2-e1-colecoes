@@ -6,15 +6,17 @@
 
 ### Divisão de Papéis
 
-A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
+<p>A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
+<ul>
+  <li> Scrum Master: Aliane Elias Amaral.
 
-  ° Scrum Master: Aliane Elias Amaral.
+  <li> Product Owner: Lucas Alves de Souza.
 
-  ° Product Owner: Lucas Alves de Souza.
+  <li> Equipe de Desenvolvimento: Aliane Elias Amaral, Gabriela Bretas Duarte Monteiro, João Gabriel Barrozo Rocha, Lucas Alves de Souza, Mylena Oliveira Silva.
 
-  ° Equipe de Desenvolvimento: Aliane Elias Amaral, Gabriela Bretas Duarte Monteiro, João Gabriel Barrozo Rocha, Lucas Alves de Souza, Mylena Oliveira Silva.
+  <li> Equipe de Design: Gabriela Bretas Duarte Monteiro.
+</ul>
 
-  ° Equipe de Design: Gabriela Bretas Duarte Monteiro.
 
 ### Processo
 
