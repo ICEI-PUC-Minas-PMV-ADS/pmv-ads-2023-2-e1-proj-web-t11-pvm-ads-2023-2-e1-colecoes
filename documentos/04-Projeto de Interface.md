@@ -23,7 +23,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 <h3><b>Tela 1 - Página Inicial</b></h3>
 <p>A tela da página inicial possui uma barra de menu superior, indicações para fazer parte da comunidade e banners com efeito carousel para apresentação do site e suas vantagens, colecionadores da semana e notícias atuais. </p>
   
-<img src="[https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/PaginaInicial.JPG]" width="220">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/PaginaInicial.JPG" width="220">
 
 <figure> 
   <figcaption>Figura XXX - Tela Página Inicial
