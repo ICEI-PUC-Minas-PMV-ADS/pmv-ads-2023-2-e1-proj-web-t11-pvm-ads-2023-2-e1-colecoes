@@ -62,13 +62,6 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Gerenciamento do Projeto            | Trello                             | https://trello.com/b/Crg5nNnz          |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
-=======
-| Repositório de Código Fonte         | GitHub                             | http://....                            |
-| Documentos do Projeto               | GitHub                             | http://....                            |
-| Projeto de Interface e Wireframes               | MarvelApp                              | http://....                           |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
->>>>>>> 856cbd6fab432900673e120801540a73015feea0
-
 ### Estratégia de Organização de Codificação 
 
 Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto do site deverão ser inseridos na pasta [codigo-fonte](http://https://github.com/ICEI-PUC-Minas-PMV-ADS/WebApplicationProject-Template-v2/tree/main/codigo-fonte). 
