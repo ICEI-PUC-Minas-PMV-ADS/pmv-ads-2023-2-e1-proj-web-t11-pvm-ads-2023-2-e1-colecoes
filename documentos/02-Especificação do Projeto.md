@@ -2,26 +2,16 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
+|                         Perfil Administrador                                      |
+|--------------------|--------------------------------------------------------------|
+|Descrição:          | Usuário responsável pelo gerenciamento e abastecimento do site.|
+|Necessidades:       | Ter conhecimento sobre necessidades do site através de chamados abertos usuários no site. 
 
-<table>
-<tbody>
-<tr align=center>
-<th colspan="2">Perfil Nome </th>
-</tr>
-<tr>
-<td width="150px"><b>Descrição</b></td>
-Usuário responsável pelo gerenciamento e abastecimento do site
-<td width="600px">...</td>
-</tr>
-<tr>
-<td><b>Necessidades</b></td>
-<td>...</td>
-</tr>
-</tbody>
-</table>
+Abastecer a página inicial com informações de notícias atualizadas, verificadas e que promovam interesse pela plataforma. 
 
+Ter acesso que favoreça autonomia de alteração manual dos usuários que constem no banner de colecionadores da semana. 
 
+ .|
 
 
 
