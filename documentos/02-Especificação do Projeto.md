@@ -10,7 +10,7 @@
 <th colspan="2">Perfil Nome </th>
 </tr>
 <tr>
-<td width="150px"><b>Descrição</b></td>
+<td width="150px"><b>Descrição</b></td>Usuário responsável pelo gerenciamento e abastecimento do site
 <td width="600px">...</td>
 </tr>
 <tr>
