@@ -37,12 +37,14 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 
 <ul>
+  <li>Desenvolvimento </li>
+  <li>Design </li>
+  <li>Gerência de Projetos </li>
   <li>Bug (Erro no código)</li>
-  <li>Desenvolvimento (Development)</li>
-  <li>Documentação (Documentation)</li>
-  <li>Gerência de Projetos (Project Management)</li>
-  <li>Infraestrutura (Infrastructure)</li>
-  <li>Testes (Tests)</li>
+  <li>Infraestrutura </li>
+  <li>Documentação </li>
+  <li>MarvelApp </li>
+  <li>Testes </li>
 </ul>
 
 <figure> 
