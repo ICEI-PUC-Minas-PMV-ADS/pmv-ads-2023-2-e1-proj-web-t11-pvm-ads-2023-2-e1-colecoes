@@ -29,4 +29,5 @@ A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a a
 
 ## Hospedagem
 
-[Adicione o endereço eletrônico público onde o site encontra-se hospedado.]
+[GeekTreasures - Apresentação Slide.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/apresentacao/GeekTreasures%20-%20Apresenta%C3%A7%C3%A3o%20Slide.pdf)
+
