@@ -62,7 +62,7 @@
 
 3. Marvelapp (Elaboração de Protótipo de Telas): O Marvelapp permitiu que criássemos protótipos interativos das telas da nossa aplicação web. Isso foi essencial para visualizar como o produto final seria antes da implementação. Além disso, os protótipos facilitaram a obtenção de feedback dos stakeholders e dos usuários, o que contribuiu para o refinamento do design e da usabilidade do aplicativo.
 
-4. Visual Studio (Editor de Código): O Visual Studio será nossa escolha para edição de código e desenvolvimento da aplicação web. Sua rica variedade de extensões e recursos avançados agilizam o processo de escrita e depuração de código, permitindo que nossa equipe de desenvolvimento possa atuar por um meio eficiente e produzindo um código de alta qualidade com uma das principais ferramentas de programação do mercado atual.
+4. Visual Studio Code (Editor de Código): O Visual Studio Code será nossa escolha para edição de código e desenvolvimento da aplicação web. Sua rica variedade de extensões e recursos avançados agilizam o processo de escrita e depuração de código, permitindo que nossa equipe de desenvolvimento possa atuar por um meio eficiente e produzindo um código de alta qualidade com uma das principais ferramentas de programação do mercado atual.
 
 5. GitHub (Gestão de Código e Colaboração): O GitHub desempenhou um papel essencial no nosso projeto de desenvolvimento. Esta plataforma de hospedagem de código oferece recursos para gerenciamento de versionamento, colaboração e revisão de código. Ele permite que nossa equipe colabore de forma eficiente em um ambiente centralizado, controlando as versões, facilitando a resolução de conflitos e garantindo a integridade do código.
 
@@ -71,10 +71,9 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | https://l1nq.com/BPtD6                 |
-| Documentos do projeto               | GitHub                             | http://....                            |
+| Documentos do projeto               | GitHub                             | [http://....    ](https://sgapucminasbr-my.sharepoint.com/:w:/g/personal/1136571_sga_pucminas_br/EaDX_Q33Fs9Bh4tqO4iSSFABcRgROGu8wkG-HhJRQkk3CA?e=OCLknU)                        |
 | Projeto de Interface                | Marvelapp                          | https://marvelapp.com/prototype/7ae7e10                          |
 | Gerenciamento do Projeto            | Trello                             | https://trello.com/b/Crg5nNnz          |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
 
 ### Estratégia de Organização de Codificação 
 
