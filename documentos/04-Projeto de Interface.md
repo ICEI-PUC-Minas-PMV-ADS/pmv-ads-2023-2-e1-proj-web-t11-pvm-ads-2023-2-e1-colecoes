@@ -103,10 +103,54 @@ Figura 1 - Fluxo de Telas da Aplicação Web
 
 <h3><b>Tela 11 - Visualizar Perfil</b></h3>
 <p>A tela de Visualizar Perfil se trata da tela que é apresentada ao clicar em um nome de usuário.</p>
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/7-MeusAmigos.JPG" width="460">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/11-VisualizarPerfil.JPG" width="460">
 
 <figure> 
   <figcaption>Figura 12 - Tela de Visualizar Perfil
 </figure> 
 <hr>
 
+<h3><b>Tela 12 - Minhas Coleções - Minhas Pastas</b></h3>
+<p>A tela de Minhas Coleções - Minhas Pastas apresenta as pastas que já foram criadas pelo usuário.</p>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/12-MinhasColecoes-MinhasPastas.JPG" width="460">
+
+<figure> 
+  <figcaption>Figura 13 - Minhas Coleções - Minhas Pastas
+</figure> 
+<hr>
+
+<h3><b>Tela 13 - Minhas Coleções - Criação de Pasta</b></h3>
+<p>A tela de Minhas Coleções - Criação de Pasta se trata da tela que é apresentada ao clicar em "Criar Nova Pasta" e os campos a serem preenchidos.</p>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/13-MinhasColecoes-CriandoPasta.JPG" width="460">
+
+<figure> 
+  <figcaption>Figura 14 - Minhas Coleções - Criação de Pasta
+</figure> 
+<hr>
+
+<h3><b>Tela 14 - Minhas Coleções - Meus Itens</b></h3>
+<p>A tela de Minhas Coleções - Meus Itens se trata da tela que é apresentada ao acessar dentro de uma pasta.</p>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/14-MinhasColecoes-MeusItens.JPG" width="460">
+
+<figure> 
+  <figcaption>Figura 15 - Minhas Coleções - Meus Itens
+</figure> 
+<hr>
+
+<h3><b>Tela 15 - Minhas Coleções - Criação de Item</b></h3>
+<p>A tela de Minhas Coleções - Criação de Item se trata da tela que é apresentada ao clicar em "Criar Novo Item" quando se está dentro de uma pasta.</p>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/15-MinhasColecoes-CriandoItem.JPG" width="460">
+
+<figure> 
+  <figcaption>Figura 16 - Minhas Coleções - Criação de Item
+</figure> 
+<hr>
+
+<h3><b>Tela 16 - Minhas Coleções - Propriedades do Item</b></h3>
+<p>A tela de Minhas Coleções - Propriedades do Item se trata da tela que é apresentada ao clicar em um item para expandir e ter acesso às suas informações.</p>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/16-MinhasColecoes-PropriedadesDoItem.JPG" width="460">
+
+<figure> 
+  <figcaption>Figura 17 - Minhas Coleções - Propriedades do Item
+</figure> 
+<hr>
