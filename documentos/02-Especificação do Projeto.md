@@ -45,6 +45,8 @@ Ter acesso ao seu perfil próprio, onde consiga visualizar seus catálogos, amig
 </tr>
 </tbody>
 </table>
+
+
 ## Histórias de Usuários
 
 
