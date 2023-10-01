@@ -2,8 +2,6 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
-
 <table>
 <tbody>
 <tr align=center>
@@ -24,7 +22,29 @@ Ter acesso que favoreça autonomia de alteração manual dos usuários que const
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil Cliente </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px"> Usuário que irá utilizar o conteúdo e a interface como consumidor.</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>Obter acesso fácil e rápido a informações sobre seus itens de coleção cadastrados. 
 
+Catalogar os itens com informações personalizadas para preservar a integridade das suas histórias e opiniões. 
+
+Obter contato com outros colecionadores dos mesmos interesses. 
+
+Ter acesso para solicitar suporte, reportar problemas e sugestões sobre a plataforma quando necessário. 
+
+Ter acesso ao seu perfil próprio, onde consiga visualizar seus catálogos, amigos, mensagens, dados pessoais e chamados abertos de forma centralizada e intuitiva.</td>
+</tr>
+</tbody>
+</table>
 ## Histórias de Usuários
 
 
