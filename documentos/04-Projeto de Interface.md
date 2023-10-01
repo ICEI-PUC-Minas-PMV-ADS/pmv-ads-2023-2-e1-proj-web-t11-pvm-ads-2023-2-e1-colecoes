@@ -31,7 +31,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 <hr>
 
 <h3><b>Tela 2 - Login</b></h3>
-<p>A tela de login apresentará os campos de login e senha para se manter logado, além de possuir mais um atalho para caso já seja membro e opção de recuperação de senha.</p>
+<p>A tela de login apresentará os campos de login e senha para se manter logado e atalhos.</p>
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/Login.JPG" width="460">
 
 <figure> 
