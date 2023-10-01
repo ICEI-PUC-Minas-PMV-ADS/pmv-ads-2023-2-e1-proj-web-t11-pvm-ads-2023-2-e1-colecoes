@@ -31,6 +31,9 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
   ° Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
 
+  ![WhatsApp Image 2023-09-30 at 20 23 01](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/assets/145519272/9e2d801d-b198-46c6-ace9-6e9d85e53455)
+
+
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 
