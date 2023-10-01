@@ -2,7 +2,7 @@
 # Metodologia
 
 ## Gerenciamento de Projeto
-  A metodologia Scrum foi selecionada como a abordagem ágil do nosso projeto de desenvolvimento de aplicação web, tendo em vista os benefícios destacados no cotidiano do mercado da tecnologia. Tais benefícios incluem a definição clara dos resultados a serem alcançados, a imposição de um ritmo disciplinado na execução do trabalho, a alocação precisa de papéis e responsabilidades (Scrum Owner, Scrum Master e Team), o empoderamento da equipe para enfrentar desafios, a distribuição colaborativa e compartilhada do conhecimento e a promoção de um ambiente propício à crítica construtiva das ideias. Estas razões solidificam a escolha do Scrum como a metodologia mais adequada para garantir o êxito do nosso projeto de aplicação web.
+  A metodologia Scrum foi selecionada como a abordagem ágil do nosso projeto de desenvolvimento de aplicação web, tendo em vista os benefícios destacados no cotidiano do mercado da tecnologia. Tais benefícios incluem a definição clara dos resultados a serem alcançados, a imposição de um ritmo disciplinado de execução do trabalho, alocação precisa de papéis e responsabilidades (Scrum Owner, Scrum Master e Team), o empoderamento da equipe para enfrentar desafios, a distribuição colaborativa e compartilhada do conhecimento e a promoção de um ambiente propício à crítica construtiva das ideias. Estas razões solidificam a escolha do Scrum como a metodologia mais adequada para garantir o êxito do nosso projeto de aplicação web.
 
 ### Divisão de Papéis
 
