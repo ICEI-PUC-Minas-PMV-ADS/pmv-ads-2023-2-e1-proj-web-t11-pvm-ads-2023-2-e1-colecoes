@@ -6,28 +6,30 @@
 
 ### Divisão de Papéis
 
-A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
+<p>A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
+<ul>
+  <li> Scrum Master: Aliane Elias Amaral.
 
-  ° Scrum Master: Aliane Elias Amaral.
+  <li> Product Owner: Lucas Alves de Souza.
 
-  ° Product Owner: Lucas Alves de Souza.
+  <li> Equipe de Desenvolvimento: Aliane Elias Amaral, Gabriela Bretas Duarte Monteiro, João Gabriel Barrozo Rocha, Lucas Alves de Souza, Mylena Oliveira Silva.
 
-  ° Equipe de Desenvolvimento: Aliane Elias Amaral, Gabriela Bretas Duarte Monteiro, João Gabriel Barrozo Rocha, Lucas Alves de Souza, Mylena Oliveira Silva.
+  <li> Equipe de Design: Gabriela Bretas Duarte Monteiro.
+</ul>
 
-  ° Equipe de Design: Gabriela Bretas Duarte Monteiro.
 
 ### Processo
 
-Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello, estruturado com as seguintes listas:
-
-  ° Product Backlog: Para atingir o objetivo final, as atividades serão divididas em tarefas. O Product Backlog recebe essas tarefas e representa o Backlog do Produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
+<p>Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello, estruturado com as seguintes listas:
+<ul>
+  <li> Product Backlog: Para atingir o objetivo final, as atividades serão divididas em tarefas. O Product Backlog recebe essas tarefas e representa o Backlog do Produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
   
-  ° To Do: Essa lista representa o Sprint Backlog que está sendo trabalhado.
+  <li> To Do: Essa lista representa o Sprint Backlog que está sendo trabalhado.
   
-  ° In progress: Lista das tarefas já iniciadas.
+  <li> In progress: Lista das tarefas já iniciadas.
   
-  ° Done: Nessa lista são alocadas as tarefas finalizadas e as que passaram pelos testes e controles de qualidade, prontas para serem aplicadas de forma a serem entregues aos usuários.
-  
+ <li> Done: Nessa lista são alocadas as tarefas finalizadas e as que passaram pelos testes e controles de qualidade, prontas para serem aplicadas de forma a serem entregues aos usuários.
+</ul>  
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/Trello%20Organizador%20de%20taferas.jpeg"
 </figure> 
