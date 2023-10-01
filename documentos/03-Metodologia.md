@@ -29,7 +29,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
   ° Done: Nessa lista são alocadas as tarefas finalizadas e as que passaram pelos testes e controles de qualidade, prontas para serem aplicadas de forma a serem entregues aos usuários.
   
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/WhatsApp%20Image%202023-09-30%20at%2020.23.01.jpeg"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/Trello%20Organizador%20de%20taferas.jpeg"
 </figure> 
 
 
@@ -46,7 +46,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 </ul>
 
 <figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/Etiquetas.jpeg"
     <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
   
