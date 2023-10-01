@@ -6,6 +6,3 @@ RODRIGUES, Anna Maria Moog. Por uma filosofia da tecnologia. In: GRINSPUN, Miria
 
 MEY, E. S. A. Introdução à catalogação. Brasília. Briquet de Lemos, 1995a. 123p 
 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
