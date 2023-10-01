@@ -21,9 +21,9 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
 Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
 
 <h3><b>Tela 1- Página Inicial</b></h3>
-<p>A tela da página inicial conta com uma barra de menu superior e banners com efeito carousel que remetem a apresentação do site e suas vantagens, indicações para fazer parte da comunidade, colecionadores da semana e notícias atuais. </p>
+<p>A tela da página inicial possui uma barra de menu superior, indicações para fazer parte da comunidade e banners com efeito carousel para apresentação do site e suas vantagens, colecionadores da semana e notícias atuais. </p>
   
-![homepage](https://user-images.githubusercontent.com/81182674/167677975-53f61b97-4979-441b-813c-036c3cd153bf.png)
+![homepage]([https://user-images.githubusercontent.com/81182674/167677975-53f61b97-4979-441b-813c-036c3cd153bf.pn](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/P%C3%A1ginaInicial.JPG)g)
 
 <figure> 
   <figcaption>Figura XXX - Tela Página Inicial
