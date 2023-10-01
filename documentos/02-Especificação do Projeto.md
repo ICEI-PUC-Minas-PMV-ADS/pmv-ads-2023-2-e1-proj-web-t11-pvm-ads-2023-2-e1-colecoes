@@ -33,7 +33,16 @@
 |ADMINISTRADOR.      | alterar tela principal de notícias.| manter o site atualizado com informações verificadas e atualizadas do momento  |
 |ADMINISTRADOR       | fornecer imagens de itens ou analisar imagens pendentes de aprovação, sugeridas pelos usuários clientes.  | Possibilitando a opção de compra de determinado item para colecionadores  
 |ADMINISTRADOR       | gerar e filtrar relatórios | ter acesso a informações sobre a movimentação do site para acompanhamento. |
- 
+|CLIENTE.            | ter uma caixa de entrada para envio e recebimento de mensagens dos amigos.|realizar interações de texto com outros usuários.  | 
+|CLIENTE.            | cadastrar e excluir itens com categorizações personalizadas.|organização dos itens por categorias e armazenamento seguro dos detalhes sobre os itens.  |
+|CLIENTE.            | poder alterar a privacidade das minhas coleções.|ter controle dos meus catálogos que serão públicos, privados ou somente para amigos no meu perfil.  | 
+|CLIENTE.            | alterar informações de cadastro.|para atualizar dados pessoais, como nome de apresentação, nome de usuário, foto de perfil e e-mail.  |
+|CLIENTE.            | visualizar como meu perfil público .| saber como o perfil é apresentado publicamente.  |
+|CLIENTE.            | poder adicionar e excluir amigos .| para gerenciar minha rede de contatos.  |
+|CLIENTE.            | criar e participar de fóruns .| para interação com outros usuários a respeito de temas específicos .  |
+|CLIENTE.            | devo ter acesso aos chamados de suporte que já foram abertos por mim .| para consultar status e resolução dos meus chamados como cliente.  |
+
+
 
 
 ## Requisitos do Projeto
