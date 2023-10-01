@@ -1,4 +1,4 @@
-# A coleção
+# GeekTreasures: Descubra e Compartilhe Colecionáveis
 
 `Análise e Desenvolvimento de Sistemas - PUC Minas`
 

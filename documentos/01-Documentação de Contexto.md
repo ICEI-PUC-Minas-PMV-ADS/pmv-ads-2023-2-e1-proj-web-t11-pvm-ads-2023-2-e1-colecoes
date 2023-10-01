@@ -1,6 +1,12 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+No mundo atual, onde a tecnologia permeia todos os aspectos de nossa vida e de acordo com Castells (1999) com o avanço tecnológico e as mudanças na sociedade estão relacionadas, embora “a tecnologia não determine a sociedade e nem a sociedade escreva o curso da transformação tecnológica” (p. 25). 
+
+A tecnologia é o pano de fundo, o próprio quadro referencial, no qual todos os outros fenômenos sociais ocorrem. Ela molda nossa mentalidade, nossa linguagem, nossa maneira de estruturar o pensamento,inclusive a nossa maneira de valorar.[...] Por outro lado, toda cultura tem seus valores arraigados. Esses valores são questionados na medida em que a sociedade tecnológica evolui (RODRIGUES,2001, p. 76-77). 
+
+Surge então a necessidade de encontrar soluções criativas e eficazes para desafios cotidianos. Uma das áreas em que essa necessidade se destaca é a organização de itens colecionáveis. A crescente paixão por colecionar objetos ou artefatos exclusivos, cria a demanda por métodos mais avançados de gerenciamento e catalogação.  
+
+A organização de itens colecionáveis não se trata apenas de manter um inventário. Envolve a criação de um ambiente digital que não só cataloga e categoriza os itens, mas também fornece informações detalhadas, imagens de alta qualidade e histórias por trás de cada peça. Além disso, um site dedicado a itens colecionáveis pode conectar entusiastas, permitindo troca de informações e experiências valiosas
 
 ## Problema
 
@@ -30,11 +36,13 @@ Detalhamento personalizado: Proporcionaremos aos usuários a capacidade de inser
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+A criação de um site para a organização e catalogação de itens colecionáveis é uma iniciativa que se mostra cada vez mais relevante em um cenário em que a tecnologia desempenha um papel fundamental na otimização de processos e na promoção da acessibilidade. Destaca-se que através da catalogação vai ser possível, criar um canal de organização. 
+ 
+Um canal de comunicação estruturado, que veicula mensagens contidas nos itens, e sobre os itens, de um ou vários acervos, apresentando-as sob forma codificada e organizada, agrupadas por semelhanças, aos usuários desse(s) acervo(s) (MEY, 1995, p. 9) 
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
+A justificativa para este trabalho está fundamentada na necessidade de abordar os desafios enfrentados por colecionadores em relação à gestão de suas valiosas coleções, e na oportunidade de fornecer uma solução eficaz através de uma plataforma digital dedicada. 
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A crescente popularidade da prática de colecionar itens de diversos tipos, desde antiguidades até artigos contemporâneos, revela a importância cultural e emocional dessas coleções. No entanto, os colecionadores muitas vezes se deparam com dificuldades ao organizar, catalogar e acessar seus itens de maneira eficiente, além de registrar suas histórias de forma personalizada. A abordagem manual pode ser demorada, sujeita a erros e limitada em sua capacidade de fornecer informações detalhadas. 
 
 ## Público-Alvo
 
