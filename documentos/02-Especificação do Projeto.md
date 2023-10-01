@@ -7,15 +7,19 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Perfil Administrador </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Usuário responsável pelo gerenciamento e abastecimento do site.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>Ter conhecimento sobre necessidades do site através de chamados abertos usuários no site. 
+
+Abastecer a página inicial com informações de notícias atualizadas, verificadas e que promovam interesse pela plataforma. 
+
+Ter acesso que favoreça autonomia de alteração manual dos usuários que constem no banner de colecionadores da semana. </td>
 </tr>
 </tbody>
 </table>
