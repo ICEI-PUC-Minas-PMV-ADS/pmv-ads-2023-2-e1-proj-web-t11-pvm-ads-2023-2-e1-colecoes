@@ -72,7 +72,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | https://l1nq.com/BPtD6                 |
 | Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Marvelapp                          | http://....                            |
+| Projeto de Interface                | Marvelapp                          | https://marvelapp.com/prototype/7ae7e10                          |
 | Gerenciamento do Projeto            | Trello                             | https://trello.com/b/Crg5nNnz          |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
