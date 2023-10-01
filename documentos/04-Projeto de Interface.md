@@ -20,6 +20,7 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
 
 Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
 
+<hr>
 <h3><b>Tela 1 - Página Inicial</b></h3>
 <p>A tela da página inicial possui uma barra de menu superior, indicações para fazer parte da comunidade e banners com efeito carrossel para apresentação do site e suas vantagens, colecionadores da semana e notícias atuais. </p>
   
