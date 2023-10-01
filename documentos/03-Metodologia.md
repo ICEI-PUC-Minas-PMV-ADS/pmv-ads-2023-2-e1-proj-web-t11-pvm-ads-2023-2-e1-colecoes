@@ -21,8 +21,11 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello, estruturado com as seguintes listas:
 
   ° Product Backlog: Para atingir o objetivo final, as atividades serão divididas em tarefas. O Product Backlog recebe essas tarefas e representa o Backlog do Produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
+  
   ° To Do: Essa lista representa o Sprint Backlog que está sendo trabalhado.
+  
   ° In progress: Lista das tarefas já iniciadas.
+  
   ° Done: Nessa lista são alocadas as tarefas finalizadas e as que passaram pelos testes e controles de qualidade, prontas para serem aplicadas de forma a serem entregues aos usuários.
   
 <figure> 
