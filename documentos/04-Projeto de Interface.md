@@ -3,33 +3,37 @@
 
 ## User Flow
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+A figura 1 abaixo apresenta um percurso de interação do usuário através das interfaces do sistema. Uma análise detalhada de cada uma dessas interfaces está disponível na seção a seguir intitulada 'Protótipo de Baixa Fidelidade'. Se desejar visualizar o protótipo em ação, <a href="https://marvelapp.com/prototype/7ae7e10"> clique aqui para acessar o nosso protótipo no ambiente MarvelApp</a>.
 
-[Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
+Figura 1 - Fluxo de Telas da Aplicação Web
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+### Protótipo de Baixa Fidelidade
 
-## Protótipo
+<hr>
+<h3><b>Tela 1 - Página Inicial</b></h3>
+<p>A tela da página inicial possui uma barra de menu superior, indicações para fazer parte da comunidade e banners com efeito carrossel para apresentação do site e suas vantagens, colecionadores da semana e notícias atuais. </p>
+  
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/PaginaInicial.JPG" width="460">
 
-Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. Leia o artigo [Protótipos: baixa, média ou alta fidelidade?](https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135).
+<figure> 
+  <figcaption>Figura 2 - Tela Página Inicial
+</figure> 
+<hr>
 
-### Protótipo de baixa fidelidade
+<h3><b>Tela 2 - Login</b></h3>
+<p>A tela de login apresentará os campos de login e senha para se manter logado e atalhos.</p>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/Login.JPG" width="460">
 
-Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
+<figure> 
+  <figcaption>Figura 3 - Tela Login
+</figure> 
+<hr>
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
+<h3><b>Tela 3 - Cadastro de Usuário</b></h3>
+<p>A tela de cadastro possui os campos Nome de Apresentação, Nome de Usuário, E-mail, Senha e Confirmação de Senha.</p>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/CadastroUsuario.JPG" width="460">
 
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
-
-
-
+<figure> 
+  <figcaption>Figura 4 - Tela Cadastro de Usuário
+</figure> 
+<hr>

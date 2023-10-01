@@ -2,14 +2,26 @@
 
 ## Perfis de Usuários
 
-|                           Perfil Nome          |
-|Perfil Administrador                            |
-|Descrição: | Usuário responsável pelo gerenciamento e abastecimento do site. |
-|Necessidades: | Ter conhecimento sobre como o site está sendo utilizado e qual está sendo sua movimentação. 
+[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
 
-Gerenciar fotos e descrições dos itens para manter um conteúdo de qualidade. 
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil Nome </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>Usuário responsável pelo gerenciamento e abastecimento do site
+<td width="600px">...</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>...</td>
+</tr>
+</tbody>
+</table>
 
-Gerenciar histórias   |
+
+
 
 
 ## Histórias de Usuários
@@ -21,7 +33,16 @@ Gerenciar histórias   |
 |ADMINISTRADOR.      | alterar tela principal de notícias.| manter o site atualizado com informações verificadas e atualizadas do momento  |
 |ADMINISTRADOR       | fornecer imagens de itens ou analisar imagens pendentes de aprovação, sugeridas pelos usuários clientes.  | Possibilitando a opção de compra de determinado item para colecionadores  
 |ADMINISTRADOR       | gerar e filtrar relatórios | ter acesso a informações sobre a movimentação do site para acompanhamento. |
- 
+|CLIENTE.            | ter uma caixa de entrada para envio e recebimento de mensagens dos amigos.|realizar interações de texto com outros usuários.  | 
+|CLIENTE.            | cadastrar e excluir itens com categorizações personalizadas.|organização dos itens por categorias e armazenamento seguro dos detalhes sobre os itens.  |
+|CLIENTE.            | poder alterar a privacidade das minhas coleções.|ter controle dos meus catálogos que serão públicos, privados ou somente para amigos no meu perfil.  | 
+|CLIENTE.            | alterar informações de cadastro.|para atualizar dados pessoais, como nome de apresentação, nome de usuário, foto de perfil e e-mail.  |
+|CLIENTE.            | visualizar como meu perfil público .| saber como o perfil é apresentado publicamente.  |
+|CLIENTE.            | poder adicionar e excluir amigos .| para gerenciar minha rede de contatos.  |
+|CLIENTE.            | criar e participar de fóruns .| para interação com outros usuários a respeito de temas específicos .  |
+|CLIENTE.            | devo ter acesso aos chamados de suporte que já foram abertos por mim .| para consultar status e resolução dos meus chamados como cliente.  |
+
+
 
 
 ## Requisitos do Projeto
@@ -33,13 +54,19 @@ Gerenciar histórias   |
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |O site deve constar um sistema de avaliação por item.|Média  | 
-| RF-02 |O site deve ter uma lista de desejos. |Baixa |
-| RF-03 |O site deve permitir um cadastro de conta.  |Alta  |
-| RF-04 |Deve permitir o usuário fazer login em sua conta. |Alta  |
-| RF-05 |O site deve constar um sistema de adicionar outro usuário. |Média  |
-| RF-06 |O site deve permitir o cadastro de fotos e descrição dos itens. |Alta  |
-| RF-07 |Os clientes não poderão ter acesso aos relatórios de itens sem imagem, chamados abertos. |Alta  |
+| RF-01 |Na página inicial, o site deve permitir um cadastro de conta.|Média  | 
+| RF-02 |Todos os campos no cadastro e login devem ser obrigatórios. |Baixa |
+| RF-03 |No cadastro de novo usuário, o sistema deverá consultar a disponibilidade do nome de usuário desejado, para que não existam perfis com nomes de usuário repetidos. |Alta  |
+| RF-04 |Na página inicial, o site deve permitir realizar o login de uma conta já existente. |Alta  |
+| RF-05 |A página inicial deve ter dois banners reservados para imagens de marketing selecionadas com o perfil administrador, como apresentação do site, suas vantagens e notícias, com o efeito carrossel. |Média  |
+| RF-06 |A página inicial deve ter um atalho para a tela de “Quem Somos”, que dará mais detalhes sobre o site e o grupo desenvolvedor.  |Alta  |
+| RF-07 |Na página inicial, o banner de “Colecionadores da Semana” deve apresentar de cada usuário: Foto, Nome de Usuário e Principal Coleção, sendo ela a coleção que possua mais itens cadastrados, apenas 3 perfis por carrossel, conforme modelo. |Alta  |
+| RF-08 |O acesso a telas de Gerenciamento de Chamados e Alteração de Banners somente o perfil administrador deve ter. |Alta  |
+| RF-09 |O perfil administrador deve ter uma tela para visualizar os chamados abertos. |Alta  |
+| RF-10 |A tela de chamados do perfil administrador deve possuir a opção de filtrar chamados por ordem de data de criação ou assunto. |Alta  |
+| RF-11 |A tela de abertura de suporte, deve ter as opções de assunto: Desejo reportar um problema no sistema, Desejo fazer uma denúncia, Enviar uma sugestão, Outros.  |Alta  |
+| RF-12 |O perfil cliente deve permissão de adicionar amigos a sua rede |Alta  |
+| RF-13 |A tela de abertura de chamado deve permitir anexar uma imagem por upload |Alta  |
 
 
 **Prioridade: Alta / Média / Baixa. 
