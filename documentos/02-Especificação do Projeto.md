@@ -81,26 +81,28 @@ Ter acesso ao seu perfil próprio, onde consiga visualizar seus catálogos, amig
 | RF-02 |Na página inicial, o site deve permitir realizar o login. |Alta |
 | RF-03 |A página inicial deve ter dois banners reservados para imagens de marketing selecionadas pelo perfil administrador, como apresentação do site, suas vantagens e notícias, com o efeito carrossel de movimentação de imagens. |Média  |
 | RF-04 |A página inicial deve ter um botão no menu para a tela “Quem Somos”, que dará mais detalhes sobre o site e o grupo desenvolvedor.|Baixa |
-| RF-05 |Na página inicial, o site deve permitir um cadastro de conta.|Alta  |
+| RF-05 |No cadastro de novo usuário, o sistema deverá consultar a disponibilidade do nome de usuário desejado, para que não existam perfis com nomes de usuário repetidos. |Alta  |
 | RF-06 |Na página inicial, o banner de “Colecionadores da Semana” deve apresentar de cada usuário: Foto, Nome de Usuário e Principal Coleção, que seja o catálogo que o usuário possua mais itens cadastrados.|Média |
 | RF-07 |Todos os campos no cadastro e login devem ser obrigatórios.|Alta  |
 | RF-08 |O acesso a telas de Gerenciamento de Chamados e Alteração de Banners somente o perfil administrador deve ter.|Média |
 | RF-09 |No Gerenciamento de Chamados, o perfil administrador deve ter um campo de resolução do chamado e de alterar status do chamado.|Alta |
 | RF-10 |Na tela de Alteração de Banners, o perfil administrador deve conseguir fazer upload da imagem, escolher quantos imagens terão.|Média |
-| RF-11 |Todos os campos no cadastro e login devem ser obrigatórios.|Média |
-| RF-12 |A tela de abertura de chamado, deve ter um campo de Descrição e selecionar opções no campo Assunto como: Desejo reportar um problema no sistema; Desejo fazer uma denúncia; Enviar uma sugestão; Outros assuntos.|Média |
-| RF-13 |Na abertura de chamado deve-se permitir anexar uma imagem.|Média |
-| RF-14 |Todos os tipos de perfis após logados, na tela interna, terão um menu lateral esquerdo com as funções disponíveis. |Média |
-| RF-15 |A tela Minhas Coleções deverá apresentar os botões: Filtrar Pastas por Ordem Alfabética e Criar Nova Pasta.|Baixa |
+| RF-11 |A tela de Abertura de Chamado, deve ter um campo de Descrição e selecionar opções no campo Assunto como: Desejo reportar um problema no sistema; Desejo fazer uma denúncia; Enviar uma sugestão; Outros assuntos. |Média |
+| RF-12 |Na abertura de chamado deve-se permitir anexar uma imagem.|Média |
+| RF-13 |Todos os tipos de perfis após logados, na tela interna, terão um menu lateral esquerdo com as funções disponíveis, uma tela central onde serão apresentadas as telas internas, na parte superior esquerda deve ter a logo do site, na parte superior direita deve ter sobre o usuário logado: Foto; Nome de Usuário; Sair. |Média |
+| RF-14 |A tela Minhas Coleções deverá apresentar os botões: Filtrar Pastas por Ordem Alfabética e Criar Nova Pasta.  |Alta |
+| RF-15 |A tela de Criar Nova Pasta deverá ter os campos obrigatórios a preencher: Título da Pasta; Privacidade; |Alta |
 | RF-16 |A tela Meus Chamados, deve permitir consultar o status dos seus chamados.|Média |
 | RF-17 |A tela Caixa de Entrada deve permitir enviar, receber e visualizar mensagens de texto.|Média |
 | RF-18 |A tela de Alterar Foto deve ser apresentada ao clicar em Alterar Foto no menu esquerdo. |Baixa |
-| RF-19 |A tela interna de uma pasta deve apresentar os botões: Filtrar Pastas por Ordem Alfabética e Adicionar Novo Item.|Média |
-| RF-20 |O botão de Adicionar Novo Item só poderá aparecer quando o usuário estiver na tela dentro de uma pasta.|Alta |
-| RF-21 |A tela Meus Chamados, deve permitir consultar o status dos seus chamados.|Alta |
-| RF-22 |A tela de Adicionar Novo Item deverão ter os campos: Título do Item; Categoria; Descrição; Data de Aquisição; História da Aquisição; Avaliação Pessoal; Foto Personalizada; Origem/Autor.|Alta |
-| RF-23 |Ao clicar no nome de outro usuário, a aplicação deve ser redirecionada para a tela de Perfil desse usuário.|Média |
-| RF-24 |A tela Perfil será apenas para exposição, sem botões ou interações, nessa tela será apresentada somente: Nome do Usuário; Foto; Itens (separados pela categoria). |Baixa |
+| RF-19 |A tela Meus Amigos deve ter um campo de buscar amigos. Esse será o meio de localizar outros outros perfis. |Baixa |
+| RF-20 |A tela Meus Amigos deve ter a relação dos amigos adicionados do usuário, apresentando sobre eles: Nome de Usuário; Foto. |Média |
+| RF-21 |A tela interna de uma pasta deve apresentar os botões: Filtrar Pastas por Ordem Alfabética e Adicionar Novo Item. |Média |
+| RF-22 |O botão de Adicionar Novo Item só poderá aparecer quando o usuário estiver na tela dentro de uma pasta. |Alta |
+| RF-23 |A tela de Adicionar Novo Item deverá ter os campos: Título do Item; Categoria; Descrição; Data de Aquisição; História da Aquisição; Avaliação Pessoal; Origem/Autor. Os campos serão opcionais, exceto: Título do Item e Categoria. |Alta |
+| RF-24 |Ao clicar no nome de um usuário, a aplicação deve ser redirecionada para a tela de Perfil desse usuário.  |Média |
+| RF-25 |A tela Perfil de um usuário deverá ter: Nome do Usuário; Foto; Itens (separados pela categoria).   |Média |
+| RF-26 |A tela Perfil de um usuário deverá ter os botões: Adicionar Amigo e Remover Amigo.   |Média |
 
 
 **Prioridade: Alta / Média / Baixa. 
