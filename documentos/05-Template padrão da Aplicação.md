@@ -1,12 +1,18 @@
-# Template padrão da Aplicação
+# Template Padrão da Aplicação
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+O design convencional desse site foi criado por meio das linguagens de marcação HTML e CSS, enquanto a linguagem de programação JavaScript desempenhou um papel fundamental para a programação dos menus responsivos.
 
-[Apresente a estrutura padrão da sua aplicação.]
+As páginas terão como elementos padrões o menu de navegação, o [...], além dos elementos de identidade visual citados abaixo:
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+Cores: RGB: #3E497A, whitesmoke, goldenrod e white. [...]
+Font-Family: Arial, Helvetica, sans-serif e cursive. [...]
+Font-Size: 15px e 28px. [...]
+
+O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado aqui. 
+As imagens e ícones utilizados no projeto estão disponíveis aqui. [...]
+
+(Inserir aqui alguns exemplos de telas que mostrem os citados anteriores, cores, fontes, logo, etc).
+
+Para a criação do logotipo do site foi utilizada a cor [...], pois esta cor remete a aspectos do conhecimento e sabedoria (PATEL, 2021). A utilização da imagem de um marca-texto foi escolhida por ser algo presente no dia-a-dia dos estudantes.
+
+
