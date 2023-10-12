@@ -1,6 +1,6 @@
 # Template Padrão da Aplicação
 
-O design convencional desse site foi criado por meio das linguagens de marcação HTML e CSS, enquanto a linguagem de programação JavaScript desempenhou um papel fundamental para a programação dos menus responsivos.
+O design convencional desse site foi criado por meio das linguagens de marcação HTML e CSS, enquanto a linguagem de programação JavaScript desempenhou um papel fundamental para o funcionamento dos menus responsivos.
 
 As páginas terão como elementos padrões o menu de navegação, o [...], além dos elementos de identidade visual citados abaixo:
 
