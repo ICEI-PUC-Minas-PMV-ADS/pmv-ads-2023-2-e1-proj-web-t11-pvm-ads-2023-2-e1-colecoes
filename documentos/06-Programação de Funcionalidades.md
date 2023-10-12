@@ -2,16 +2,19 @@
 
 ### Tela de Cadastro (RF-001)
 
-Responsável: 
+<b>▸ Responsável: </b>
 
-Localização: O acesso a tela de cadastro ocorre clicando na opção “Cadastre-se” no menu superior.
+<b>▸ Localização: </b> O acesso a tela de cadastro ocorre clicando na opção “Cadastre-se” no menu superior.
 Base da Estrutura de Dados: HTML, CSS e JS.
 
-Exemplo:
+<b>▸ Exemplo: </b>
 
-Requisito Atendido:
+<b>▸ Requisito Atendido: </b>
 
-RF-01 - Na página inicial, o site deve permitir um cadastro de conta.
+- RF-01 - Na página inicial, o site deve permitir um cadastro de conta.
 
-Artefato da Funcionalidade:
+<b>▸ Artefato da Funcionalidade: </b>
+
+##
+
 
