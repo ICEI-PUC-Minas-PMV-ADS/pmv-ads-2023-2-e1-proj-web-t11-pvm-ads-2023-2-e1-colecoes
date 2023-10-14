@@ -4,9 +4,11 @@ O design convencional desse site foi criado por meio das linguagens de marcaçã
 
 As páginas terão como elementos padrões o menu de navegação, o [...], além dos elementos de identidade visual citados abaixo:
 
-Cores: RGB: #3E497A, whitesmoke, goldenrod e white. [...]
-Font-Family: Arial, Helvetica, sans-serif e cursive. [...]
-Font-Size: 15px e 28px. [...]
+Cores: A DECIDIR
+
+Font-Family: Roboto.
+
+Font-Size: 37px, 16px, 14px.
 
 O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado aqui. 
 As imagens e ícones utilizados no projeto estão disponíveis aqui. [...]
