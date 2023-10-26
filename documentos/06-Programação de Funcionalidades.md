@@ -1,5 +1,52 @@
 # Programação de Funcionalidades
 
+### ▸ Tela de Inicial do Site (RF-001)
+
+- <b>Responsável:</b> Mylena
+
+- <b>Base da Estrutura de Dados:</b> HTML, CSS e JS.
+
+- <b>Exemplo da tela inicial:</b>
+
+- <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão para direcionar para fazer um cadastro de conta. 
+
+- <b>Artefato da Funcionalidade:</b>
+html
+css
+java
+
+- <b>Estrutura de Dados:</b>
+
+- <b>Instruções de Acesso:</b>
+
+1. Abra um navegador, insira o URL: [https://...]
+2. Ao clicar em “Cadastre-se” no canto superior da página inicial, terá acesso a tela de cadastro.
+
+---
+### ▸ Tela de Inicial do Site (RF-002)
+
+- <b>Responsável:</b> Mylena
+
+- <b>Base da Estrutura de Dados:</b> HTML, CSS e JS.
+
+- <b>Exemplo da tela inicial:</b>
+
+- <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão que direcionar para fazer login. 
+
+- <b>Artefato da Funcionalidade:</b>
+html
+css
+java
+
+- <b>Estrutura de Dados:</b>
+
+- <b>Instruções de Acesso:</b>
+
+1. Abra um navegador, insira o URL: [https://...]
+2. Ao clicar em “Login” no canto superior da página inicial, terá acesso a tela de login.
+
+---
+
 ### ▸ Tela de Cadastro (RF-001)
 
 - <b>Responsável:</b> Aliane
