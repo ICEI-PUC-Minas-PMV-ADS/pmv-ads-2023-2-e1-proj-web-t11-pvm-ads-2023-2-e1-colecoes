@@ -1,0 +1,140 @@
+body{
+    background-color: #E1DCD9;
+    margin: 2% auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'ROBOTO', sans-serif! important;
+}
+#menu-title{
+    list-style-type: none;
+    background-color: #ffffff;
+
+}
+#bloc{
+    margin-left: 20%;
+}
+#menu-title li{
+    display: inline;
+    
+    
+}
+#menu-title li a{
+
+    color: #0c0c0c;
+    padding: 1%;
+    text-decoration: none;
+    display: inline-block;
+}
+#menu-title li a:hover{
+
+    background-color:#0f0f0f;
+}
+
+#logo{
+    text-align: center;
+    margin-top: ;
+    width: 150px;
+    height: 60px;
+    float: left;
+    font-size: 5px;
+    background-color: #fdfdfd;
+    border-radius: 10px;
+}
+#apres{
+    font-size: 18px;
+    margin-left: 35px;
+}
+#part{
+    text-align: center;
+    margin-top: -1%;
+    float: right;
+    font-size: 20px;
+    width: 30%;
+}
+#part p{
+    margin-top: -8%;
+    font-size: 18px;
+    margin-left: -10%;
+}
+
+.pr1{
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    position: absolute;
+    text-align: center;
+    width: 50%;
+    height: 300px;
+    float: left;
+    background: #A67F78;
+    border-radius: 1%;
+    border:10px inset #4FD3C4;
+}
+.pr1 img{
+    width: 100%;
+    height: 300px;
+
+}
+.pr2{
+    margin-top: 27px;
+    margin-left: 50px;
+    margin-right: 50px;
+    align-self: center;
+    text-align: center;
+    width: 100%;
+    height: 250PX;
+    float: right;
+    background: #A67F78;
+    border:10px inset #8F8681;
+    border-radius: 10px;
+   
+}
+.bt{
+margin-top: 10%;  
+}
+.pr3{
+   
+    background: #A67F78;
+    border:10px inset #8F8681;
+    position: relative;
+    text-align: center;
+    width: 93.5%;
+    height: 300px;
+    top: 300px;
+    margin-left: 50px;
+    margin-top: 6%;
+    border-radius: 10px;
+    
+}
+.pr3 img{
+    width: 100%;
+    height: 300px;
+    margin-top: -11%;
+}
+
+.bt1{
+    background-color: #32435F;
+    text-align: center;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 2%;
+    border-radius: 10px;
+    border: none;
+}
+.bt1:hover{
+
+    background-color:#8792A1;
+}
+.bt2{
+    background-color: #32435F;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+}
+.bt2:hover{
+
+    background-color:#8792A1;
+}
