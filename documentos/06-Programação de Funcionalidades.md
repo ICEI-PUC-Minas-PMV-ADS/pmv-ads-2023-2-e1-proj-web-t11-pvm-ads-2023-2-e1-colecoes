@@ -11,9 +11,10 @@
 - <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão para direcionar para fazer um cadastro de conta. 
 
 - <b>Artefato da Funcionalidade:</b>
-html
-css
-java
+
+Pagina inicial.html
+Pagina inicial.css
+
 
 - <b>Estrutura de Dados:</b>
 
@@ -34,9 +35,9 @@ java
 - <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão que direcionar para fazer login. 
 
 - <b>Artefato da Funcionalidade:</b>
-html
-css
-java
+
+Pagina inicial.html
+PaginA inicial.css
 
 - <b>Estrutura de Dados:</b>
 
