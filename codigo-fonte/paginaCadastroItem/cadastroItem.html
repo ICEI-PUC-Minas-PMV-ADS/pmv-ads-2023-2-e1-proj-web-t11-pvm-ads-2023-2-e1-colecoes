@@ -3,22 +3,52 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta id="viewport" content="width=device-width, initial-scale=1.0">
   <title>Cadastro Item</title>
   <link rel="stylesheet" href="cadastroItem.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,900&display=swap" rel="stylesheet">
 </head>
 <body>
-    <form>
-        <div class="row">
-            <input class="input-form" type="text" placeholder="Título do Item"/>
-            <input class="input-form" type="text" placeholder="Categoria"/>
-            <input class="input-form" type="text" placeholder="Descrição"/>
-            <input class="input-form" type="date" placeholder="Data da Aquisição"/>
-            <input class="input-form" type="text" placeholder="História da Aquisição"/>
-            <input class="input-form" type="text" placeholder="Avaliação Pessoal"/>
-            <input class="input-form" type="text" placeholder="Origem/Autor"/>
-            <input class="button-form"  type="submit" value="Salvar"/> </div>
+    <div id="bodyCadastroItem" class="bodyCadastroItem">
+      <div class="row">
+        <h1 class="text-white">Cadastro de Item</h1>
+      </div>
+      <div class="row">
+        <input class="button-form"  type="submit" value="Voltar para Minhas Coleções"/> 
+      </div>
+      <form onsubmit="return false" >
+          <div class="row">
+            <img src="./assets/icons8-books-64.png" width="93" height="84" alt="Descrição da imagem">
+          </div>
+          <div class="row">
+            <input class="input-form" type="text" name="categoria" id="categoria" placeholder="Categoria"/>            
+          </div>
+          <div class="row">
+            <input class="input-form" type="text" id="descricao" placeholder="Descrição"/>            
+          </div>
+          <div class="row">
+            <input class="input-form" type="date" id="dataAquisicao" placeholder="Data da Aquisição"/>            
+          </div>
+          <div class="row">
+            <input class="input-form" type="text" id="historia" placeholder="História da Aquisição"/>            
+          </div>
+          <div class="row">
+            <input class="input-form" type="text" id="avaliacao" placeholder="Avaliação Pessoal"/>            
+          </div>
+          <div class="row">
+            <input class="input-form" type="text" id="origem" placeholder="Origem/Autor"/>            
+          </div>
+          <div class="row">
+            <input class="input-form" type="file" id="imagem" placeholder="Selecionar Imagem">            
+          </div>
+          <div class="row center-row">
+            <button onclick="cadastrar()" class="button-form" type="submit">Salvar</button>             
+          </div>
+        </form>
+    </div>
 
-    </form>
+    <script src="./script-cadastroItem.js"></script>
 </body>
 </html>

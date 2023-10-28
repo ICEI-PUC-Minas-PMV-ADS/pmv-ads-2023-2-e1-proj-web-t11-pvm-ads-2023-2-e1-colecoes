@@ -1,3 +1,15 @@
+body{
+    font-family: 'Roboto', sans-serif !important;
+}
+
+input{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bodyCadastroItem{
+    background-color: #252525;
+}
+
 .input-form{
     margin: 2px;
     width: 100%;
@@ -6,26 +18,38 @@
     border-radius: 5px;
     height: 34px;
 }
+
 form{
    display: flex;
    flex-direction: column;
    justify-content: space-evenly;
-   align-items: center;
-   
+   align-items: center;   
 }
+
 .row{
-    padding: 0px 200px;
+    width: 30%;
+    margin-top: 1rem;
 }
-.button-form {
-    color: #FFFFFF;
-    font-family: Lato;
-    font-size: 14px;
-    line-height: 15px;
-   
+
+.center-row{
     text-align: center;
-          background-color: #F37E98;
-        border-radius: 5px;
-        width: 209px;
-        height: 40px;
-    
-  }
+}
+
+.button-form {
+    color: #FFFFFF;    
+    font-size: 14px;
+    line-height: 15px;   
+    background-color: #6930C3;
+    border-color: #6930C3dd;
+    border-radius: 5px;
+    width: 206px;
+    height: 40px;
+    font-family: 'Roboto', sans-serif !important;
+}
+    .button-form:hover {
+        background-color: #6930C3bb;
+    }
+
+.text-white{
+    color: #fff;    
+}
