@@ -11,10 +11,12 @@
 - <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão para direcionar para fazer um cadastro de conta. 
 
 - <b>Artefato da Funcionalidade:</b>
+<br>
+● Pagina inicial.html
+<br>
 
-● Pagina inicial.html 
 ● Pagina inicial.css 
-
+<br>
 
 - <b>Estrutura de Dados:</b>
 
@@ -35,10 +37,12 @@
 - <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão que direcionar para fazer login. 
 
 - <b>Artefato da Funcionalidade:</b>
+<br>
+● Pagina inicial.html
+<br>
 
-● Pagina inicial.html 
 ● Pagina inicial.css 
-
+<br>
 - <b>Estrutura de Dados:</b>
 
 - <b>Instruções de Acesso:</b>
