@@ -12,8 +12,8 @@
 
 - <b>Artefato da Funcionalidade:</b>
 
-Pagina inicial.html
-Pagina inicial.css
+<b> Pagina inicial.html <b>
+<b> Pagina inicial.css <b>
 
 
 - <b>Estrutura de Dados:</b>
