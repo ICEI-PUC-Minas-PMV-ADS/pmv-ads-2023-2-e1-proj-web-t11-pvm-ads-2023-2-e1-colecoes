@@ -30,7 +30,7 @@
 
 
 ---
-### ▸ Tela de Inicial do Site (RF-003)
+### ▸ Tela de Cadastro (RF-003)
 
 - <b>Responsável:</b> LUCAS
 
@@ -56,7 +56,7 @@
 
 ---
 
-### ▸ Tela de Inicial do Site (RF-003)
+### ▸ Tela de Login (RF-004)
 
 - <b>Responsável:</b> LUCAS
 
