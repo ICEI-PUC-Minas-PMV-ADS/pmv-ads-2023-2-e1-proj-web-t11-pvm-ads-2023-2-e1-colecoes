@@ -1,55 +1,25 @@
 function cadastrar() {
+  if (tituloDoItem.value == "") {
+      alert("Preencha o título do item corretamente!");
+      tituloDoItem.focus();
+      return;
+    }
+    
  
     if (categoria.value == "") {
-      alert("Preencha o formulário corretamente!");
+      alert("Preencha a categoria corretamente!");
       categoria.focus();
       return;
     }
     
-    if (descricao.value == "") {
-        alert("Preencha o formulário corretamente!");
-        descricao.focus();
-        return;
-      }
-      
-      
-    if (dataAquisicao.value == "") {
-        alert("Preencha o formulário corretamente!");
-        dataAquisicao.focus();
-        return;
-      }
-      
-      
-    if (historia.value == "") {
-        alert("Preencha o formulário corretamente!");
-        historia.focus();
-        return;
-      }
-      
-      
-    if (avaliacao.value == "") {
-        alert("Preencha o formulário corretamente!");
-        avaliacao.focus();
-        return;
-      }
-      
-    if (origem.value == "") {
-        alert("Preencha o formulário corretamente!");
-        origem.focus();
-        return;
-      }  
-      
-    if (imagem.value == "") {
-        alert("Preencha o formulário corretamente!");
-        imagem.focus();
-        return;
-      }
+     
   
 
     let listaItens = JSON.parse(localStorage.getItem('listaItens') || '[]')
   
     listaItens.push(
       {
+        tituloDoItem: tituloDoItem.value,
         descricao: descricao.value,
         dataAquisicao: dataAquisicao.value,
         historia: historia.value,

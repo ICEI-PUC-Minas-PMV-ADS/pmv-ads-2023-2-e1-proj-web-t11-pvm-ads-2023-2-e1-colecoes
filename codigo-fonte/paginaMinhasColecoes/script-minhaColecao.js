@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     for (const objeto of listaItens) {
         let itemHtml = `<div class='itensColecao'>
         <img src='${objeto.imagem}' width='93' height='84' alt='Descrição da imagem'>
-        <h4 class='text-white'>${objeto.descricao}</h4>
+        <h4 class='text-white'>${objeto.tituloDoItem}</h4>
         <p>${objeto.categoria}</p>
      </div>   `
             listagemItensAtual += itemHtml
