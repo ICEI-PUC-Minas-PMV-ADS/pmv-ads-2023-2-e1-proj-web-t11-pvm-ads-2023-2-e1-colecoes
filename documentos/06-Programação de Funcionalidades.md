@@ -89,14 +89,19 @@
 <b>_Base da Estrutura de Dados:_ </b> HTML, CSS e JS.
 
 <b>_Exemplo:_ </b>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/cadastrarItem.jpg" width="1100">
 
 &nbsp;
 
-<b>_Requisito Atendido:_ RF-007 - A tela interna de uma pasta deve apresentar os botões: Voltar para Minhas Coleções e Criar Novo Item.
+<b>_Requisito Atendido:_ RF-007 - A tela interna de uma pasta deve apresentar o botão: Criar Novo Item.
 
-<b>_Artefato da Funcionalidade:_ </b>
+<b>_Artefato da Funcionalidade:_ </b> 
+● cadastroItem.css
+● cadastroItem.html
+● script-cadastroItem.js
 
-<b>_Estrutura de Dados:_ </b>
+<b>_Estrutura de Dados:_ </b> 
+● [Cadastro de Item](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/tree/main/codigo-fonte/paginaCadastroItem)
 
 <b>_Instruções de Acesso:_ </b>
 
