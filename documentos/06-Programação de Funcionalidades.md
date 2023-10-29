@@ -52,7 +52,7 @@
 
 ---
 
-### ▸ Tela de Cadastro (RF-002)
+### ▸ Tela de Cadastro de Item (RF-007)
 
 <b>_Responsável:_ </b> Gabriela
 
@@ -64,7 +64,7 @@
 
 &nbsp;
 
-<b>_Requisito Atendido:_ RF-02 - Na página inicial, o site deve permitir realizar o login. </b> 
+<b>_Requisito Atendido:_ RF-02 - A tela de cadastro de um novo item, deverá ter os campos: Título do Item; Categoria; Descrição; Data de Aquisição; História da Aquisição; Avaliação Pessoal; Origem/Autor. Os campos serão opcionais, exceto: Título do Item e Categoria.. </b> 
 
 <b>_Artefato da Funcionalidade:_ </b>
 
