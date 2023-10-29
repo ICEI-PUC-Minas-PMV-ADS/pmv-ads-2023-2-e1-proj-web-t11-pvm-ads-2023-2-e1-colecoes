@@ -133,12 +133,13 @@ RF-009 - A tela de cadastro de um novo item, deverá ter os campos: Título do I
 
 <b>_Artefato da Funcionalidade:_ </b>
 <br>
-minhaColecao.html
+● minhaColecao.html
 <br>
-minhacolecao.css
+● minhacolecao.css
 <br>
-script-minhaColecao.js
+● script-minhaColecao.js
 <br>
+
 <b>_Estrutura de Dados:_ </b>
 <br>
 ● [Minhas Coleções](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/tree/main/codigo-fonte/paginaMinhasColecoes)
