@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-### ▸ Tela de Inicial do Site (RF-001)
+### ▸ Tela de Inicial do Site (RF-001 e RF-002)
 
 - <b>Responsável:</b> Mylena
 
@@ -10,7 +10,7 @@
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/Página Inicial.JPG" width="1100">
 
-- <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão para direcionar para fazer um cadastro de conta. 
+- <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão para direcionar para fazer um cadastro de conta e Login. 
 
 - <b>Artefato da Funcionalidade:</b>
 <br>
@@ -27,34 +27,58 @@
 - <b>Instruções de Acesso:</b>
 
 1. Abra um navegador, insira o URL: [https://...]
-2. Ao clicar em “Cadastre-se” no canto superior da página inicial, terá acesso a tela de cadastro.
+
 
 ---
-### ▸ Tela de Inicial do Site (RF-002)
+### ▸ Tela de Cadastro (RF-003)
 
-- <b>Responsável:</b> Mylena
+- <b>Responsável:</b> LUCAS
 
 - <b>Base da Estrutura de Dados:</b> HTML, CSS e JS.
 
-- <b>Exemplo da tela inicial:</b>
+- <b>Exemplo de cadastro:</b>
 
-- <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão que direcionar para fazer login. 
+- <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão que direcionar para cadastro e todos os campos no cadastro devem ser obrigatórios. 
 
 - <b>Artefato da Funcionalidade:</b>
 <br>
-● Pagina inicial.html
+●
 <br>
 
-● Pagina inicial.css 
+● 
 <br>
 - <b>Estrutura de Dados:</b>
 
 - <b>Instruções de Acesso:</b>
 
 1. Abra um navegador, insira o URL: [https://...]
-2. Ao clicar em “Login” no canto superior da página inicial, terá acesso a tela de login.
+2. Ao clicar em “Cadastre-se” no canto direito da página inicial, terá acesso a tela de cadastro.
 
 ---
+
+### ▸ Tela de Login (RF-004)
+
+- <b>Responsável:</b> LUCAS
+
+- <b>Base da Estrutura de Dados:</b> HTML, CSS e JS.
+
+- <b>Exemplo da tela inicial:</b>
+
+- <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão que direcionar para fazer login e todos os campos de login devem ser obrigatórios.
+
+- <b>Artefato da Funcionalidade:</b>
+<br>
+●
+<br>
+
+● 
+<br>
+- <b>Estrutura de Dados:</b>
+
+- <b>Instruções de Acesso:</b>
+
+1. Abra um navegador, insira o URL: [https://...]
+2. Ao clicar em “Login” no canto direito a página inicial, terá acesso a tela de login.
 
 ### ▸ Tela de Cadastro de Item (RF-007)
 
