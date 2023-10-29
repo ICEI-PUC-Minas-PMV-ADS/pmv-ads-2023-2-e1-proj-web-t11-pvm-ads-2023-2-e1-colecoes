@@ -92,7 +92,31 @@
 
 &nbsp;
 
-<b>_Requisito Atendido:_ RF-02 - A tela de cadastro de um novo item, deverá ter os campos: Título do Item; Categoria; Descrição; Data de Aquisição; História da Aquisição; Avaliação Pessoal; Origem/Autor. Os campos serão opcionais, exceto: Título do Item e Categoria.. </b> 
+<b>_Requisito Atendido:_ RF-007 - A tela interna de uma pasta deve apresentar os botões: Voltar para Minhas Coleções e Criar Novo Item.
+
+<b>_Artefato da Funcionalidade:_ </b>
+
+<b>_Estrutura de Dados:_ </b>
+
+<b>_Instruções de Acesso:_ </b>
+
+1. Abra um navegador, insira o URL: [https://...]
+2. 
+
+##
+### ▸ Tela de Cadastro de Item (RF-009)
+
+<b>_Responsável:_ </b> Gabriela
+
+<b>_Localização:_ </b> 
+
+<b>_Base da Estrutura de Dados:_ </b> HTML, CSS e JS.
+
+<b>_Exemplo:_ </b>
+
+&nbsp;
+
+<b>_Requisito Atendido:_ RF-009 - A tela de cadastro de um novo item, deverá ter os campos: Título do Item; Categoria; Descrição; Data de Aquisição; História da Aquisição; Avaliação Pessoal; Origem/Autor. Os campos serão opcionais, exceto: Título do Item e Categoria.. </b> 
 
 <b>_Artefato da Funcionalidade:_ </b>
 
