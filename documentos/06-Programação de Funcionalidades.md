@@ -92,7 +92,7 @@
 
 &nbsp;
 
-<b>_Requisito Atendido:_ RF-02 - A tela de cadastro de um novo item, deverá ter os campos: Título do Item; Categoria; Descrição; Data de Aquisição; História da Aquisição; Avaliação Pessoal; Origem/Autor. Os campos serão opcionais, exceto: Título do Item e Categoria.. </b> 
+<b>_Requisito Atendido:_ RF-02 - </b> A tela de cadastro de um novo item, deverá ter os campos: Título do Item; Categoria; Descrição; Data de Aquisição; História da Aquisição; Avaliação Pessoal; Origem/Autor. Os campos serão opcionais, exceto: Título do Item e Categoria..  
 
 <b>_Artefato da Funcionalidade:_ </b>
 
