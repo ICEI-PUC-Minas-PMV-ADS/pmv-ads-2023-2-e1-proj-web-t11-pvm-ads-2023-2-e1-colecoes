@@ -11,9 +11,12 @@
 - <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão para direcionar para fazer um cadastro de conta. 
 
 - <b>Artefato da Funcionalidade:</b>
-html
-css
-java
+<br>
+● Pagina inicial.html
+<br>
+
+● Pagina inicial.css 
+<br>
 
 - <b>Estrutura de Dados:</b>
 
@@ -34,10 +37,12 @@ java
 - <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão que direcionar para fazer login. 
 
 - <b>Artefato da Funcionalidade:</b>
-html
-css
-java
+<br>
+● Pagina inicial.html
+<br>
 
+● Pagina inicial.css 
+<br>
 - <b>Estrutura de Dados:</b>
 
 - <b>Instruções de Acesso:</b>
@@ -47,7 +52,7 @@ java
 
 ---
 
-### ▸ Tela de Cadastro (RF-002)
+### ▸ Tela de Cadastro de Item (RF-007)
 
 <b>_Responsável:_ </b> Gabriela
 
@@ -59,7 +64,7 @@ java
 
 &nbsp;
 
-<b>_Requisito Atendido:_ RF-02 - Na página inicial, o site deve permitir realizar o login. </b> 
+<b>_Requisito Atendido:_ RF-02 - A tela de cadastro de um novo item, deverá ter os campos: Título do Item; Categoria; Descrição; Data de Aquisição; História da Aquisição; Avaliação Pessoal; Origem/Autor. Os campos serão opcionais, exceto: Título do Item e Categoria.. </b> 
 
 <b>_Artefato da Funcionalidade:_ </b>
 
