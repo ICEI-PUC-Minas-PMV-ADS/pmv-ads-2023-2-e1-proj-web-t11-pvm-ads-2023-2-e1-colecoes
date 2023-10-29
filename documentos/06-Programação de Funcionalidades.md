@@ -89,14 +89,62 @@
 <b>_Base da Estrutura de Dados:_ </b> HTML, CSS e JS.
 
 <b>_Exemplo:_ </b>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/cadastrarItem.jpg" width="1100">
 
 &nbsp;
 
-<b>_Requisito Atendido:_ RF-02 - A tela de cadastro de um novo item, deverá ter os campos: Título do Item; Categoria; Descrição; Data de Aquisição; História da Aquisição; Avaliação Pessoal; Origem/Autor. Os campos serão opcionais, exceto: Título do Item e Categoria.. </b> 
+<b>_Requisito Atendido:</b>
+<br>
+RF-007 - A tela interna de uma pasta deve apresentar o botão: Criar Novo Item.
+
+<b>_Artefato da Funcionalidade:_ </b> 
+<br>
+● cadastroItem.css
+<br>
+● cadastroItem.html
+<br>
+● script-cadastroItem.js
+<br>
+
+<b>_Estrutura de Dados:_ </b> 
+<br>
+● [Cadastro de Item](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/tree/main/codigo-fonte/paginaCadastroItem)
+
+<b>_Instruções de Acesso:_ </b>
+
+1. Abra um navegador, insira o URL: [https://...]
+2. 
+
+##
+### ▸ Tela de Cadastro de Item (RF-009)
+
+<b>_Responsável:_ </b> Gabriela
+
+<b>_Localização:_ </b> 
+
+<b>_Base da Estrutura de Dados:_ </b> HTML, CSS e JS.
+
+<b>_Exemplo:_ </b>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/minhasCole%C3%A7%C3%B5es.jpg" width="1100">
+&nbsp;
+
+<b>_Requisito Atendido:</b> 
+<br>
+RF-009 - A tela de cadastro de um novo item, deverá ter os campos: Título do Item; Categoria; Descrição; Data de Aquisição; História da Aquisição; Avaliação Pessoal; Origem/Autor. Os campos serão opcionais, exceto: Título do Item e Categoria.. 
 
 <b>_Artefato da Funcionalidade:_ </b>
+<br>
+● minhaColecao.html
+<br>
+● minhacolecao.css
+<br>
+● script-minhaColecao.js
+<br>
 
 <b>_Estrutura de Dados:_ </b>
+<br>
+● [Minhas Coleções](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/tree/main/codigo-fonte/paginaMinhasColecoes)
+<br>
 
 <b>_Instruções de Acesso:_ </b>
 

@@ -16,11 +16,14 @@
         <h1 class="text-white">Cadastro de Item</h1>
       </div>
       <div class="row">
-        <input class="button-form"  type="submit" value="Voltar para Minhas Coleções"/> 
+        <input class="button-form"  type="button" value="Voltar para Minhas Coleções" onclick="window.location.href='../paginaMinhasColecoes/minhaColecao.html';"/> 
       </div>
       <form onsubmit="return false" >
           <div class="row">
-            <img src="./assets/icons8-books-64.png" width="93" height="84" alt="Descrição da imagem">
+            <img src="./assets/icons8-books-64.png" id="imagemSelecionada" width="93" height="84" alt="Descrição da imagem">
+          </div>
+          <div class="row">
+            <input class="input-form" type="text" name="tituloDoItem" id="tituloDoItem" placeholder="Título do Item"/>            
           </div>
           <div class="row">
             <input class="input-form" type="text" name="categoria" id="categoria" placeholder="Categoria"/>            
