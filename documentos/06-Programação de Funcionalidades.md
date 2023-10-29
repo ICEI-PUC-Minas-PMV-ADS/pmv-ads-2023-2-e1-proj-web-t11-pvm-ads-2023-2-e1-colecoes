@@ -13,7 +13,6 @@
 - <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão para direcionar para fazer um cadastro de conta. 
 
 - <b>Artefato da Funcionalidade:</b>
-<br>
 ● Pagina inicial.html
 <br>
 
