@@ -8,6 +8,8 @@
 
 - <b>Exemplo da tela inicial:</b>
 
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/Página Inicial.JPG" width="1100">
+
 - <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão para direcionar para fazer um cadastro de conta. 
 
 - <b>Artefato da Funcionalidade:</b>
