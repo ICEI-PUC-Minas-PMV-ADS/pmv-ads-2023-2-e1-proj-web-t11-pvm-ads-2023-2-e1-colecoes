@@ -129,6 +129,7 @@ RF-007 - A tela interna de uma pasta deve apresentar o botão: Criar Novo Item.
 &nbsp;
 
 <b>_Requisito Atendido:</b> 
+<br>
 RF-009 - A tela de cadastro de um novo item, deverá ter os campos: Título do Item; Categoria; Descrição; Data de Aquisição; História da Aquisição; Avaliação Pessoal; Origem/Autor. Os campos serão opcionais, exceto: Título do Item e Categoria.. 
 
 <b>_Artefato da Funcionalidade:_ </b>
