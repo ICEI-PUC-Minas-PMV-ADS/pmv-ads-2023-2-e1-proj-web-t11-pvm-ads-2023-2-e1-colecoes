@@ -26,7 +26,7 @@
 
 - <b>Instruções de Acesso:</b>
 
-1. Abra um navegador, insira o URL: [https://...]
+1. Abra um navegador, insira o URL: https://pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes.vercel.app/paginainicial/paginainicial.html
 
 
 ---
