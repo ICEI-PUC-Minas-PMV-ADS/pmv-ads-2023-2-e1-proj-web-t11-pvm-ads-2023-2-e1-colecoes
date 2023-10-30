@@ -80,11 +80,12 @@
 1. Abra um navegador, insira o URL: [https://...]
 2. Ao clicar em “Login” no canto direito a página inicial, terá acesso a tela de login.
 
-### ▸ Tela de Cadastro de Item (RF-007)
+### ▸ Tela Minhas Coleções (RF-007)
 
 <b>_Responsável:_ </b> Gabriela
 
 <b>_Localização:_ </b> 
+<br> https://pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes.vercel.app/paginaMinhasColecoes/minhaColecao.html
 
 <b>_Base da Estrutura de Dados:_ </b> HTML, CSS e JS.
 
@@ -121,6 +122,8 @@ RF-007 - A tela interna de uma pasta deve apresentar o botão: Criar Novo Item.
 <b>_Responsável:_ </b> Gabriela
 
 <b>_Localização:_ </b> 
+<br>
+https://pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes.vercel.app/paginaCadastroItem/cadastroItem.html
 
 <b>_Base da Estrutura de Dados:_ </b> HTML, CSS e JS.
 
