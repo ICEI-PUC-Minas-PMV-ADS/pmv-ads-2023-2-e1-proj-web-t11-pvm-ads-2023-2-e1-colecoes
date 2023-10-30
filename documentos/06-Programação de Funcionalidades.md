@@ -22,7 +22,7 @@
 
 - <b>Estrutura de Dados:</b>
 
-● [Pagina Incial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/tree/main/codigo-fonte/paginaInicial)
+● [Pagina Incial] https://pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes.vercel.app/paginainicial/paginainicial.html 
 
 - <b>Instruções de Acesso:</b>
 
