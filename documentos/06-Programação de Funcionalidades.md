@@ -4,7 +4,7 @@
 
 - <b>Responsável:</b> Mylena
 
-- <b>Base da Estrutura de Dados:</b> HTML, CSS e JS.
+- <b>Base da Estrutura de Dados:</b> HTML, CSS.
 
 - <b>Exemplo da tela inicial:</b>
 
@@ -14,10 +14,10 @@
 
 - <b>Artefato da Funcionalidade:</b>
 <br>
-● Pagina inicial.html
+● paginainicial.html
 <br>
 
-● Pagina inicial.css 
+● paginainicial.css 
 <br>
 
 - <b>Estrutura de Dados:</b>
