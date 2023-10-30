@@ -13,4 +13,6 @@ body{
 }
 .bodyMinhaColecao{
     color: #fff;
+    font-family: 'Roboto', sans-serif !important;
+    background-color: #252525;
 }
