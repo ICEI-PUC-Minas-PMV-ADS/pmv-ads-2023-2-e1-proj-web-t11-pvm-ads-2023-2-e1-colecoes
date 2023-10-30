@@ -38,6 +38,9 @@
 
 - <b>Exemplo de cadastro:</b>
 
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/cadastro.jpg" width="1100">
+
+
 - <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão que direcionar para cadastro e todos os campos no cadastro devem ser obrigatórios. 
 
 - <b>Artefato da Funcionalidade:</b>
@@ -62,7 +65,9 @@
 
 - <b>Base da Estrutura de Dados:</b> HTML, CSS e JS.
 
-- <b>Exemplo da tela inicial:</b>
+- <b>Exemplo da tela Login:</b>
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/blob/main/documentos/img/Login.jpg" width="1100">
 
 - <b>Requisito Atendido:</b> Na página inicial, o site deve ter um botão que direcionar para fazer login e todos os campos de login devem ser obrigatórios.
 
