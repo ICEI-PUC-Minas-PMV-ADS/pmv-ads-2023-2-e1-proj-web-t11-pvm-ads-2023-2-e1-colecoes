@@ -114,7 +114,7 @@ body {
 margin-top: 10%;  
 }
 
-.bt a {
+.bt a input{
     background-color: #4FD3C4;
     color: #ffffff;
     text-align: center;
@@ -125,7 +125,7 @@ margin-top: 10%;
     border: none;
 }
 
-.bt a:hover {
+.bt a input:hover {
     background: #533E85 
 }
 
