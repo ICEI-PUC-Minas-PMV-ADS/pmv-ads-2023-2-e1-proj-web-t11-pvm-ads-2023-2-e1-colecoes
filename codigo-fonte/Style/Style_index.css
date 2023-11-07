@@ -1,62 +1,67 @@
-body{
+body {
     background-color: #000000;
     margin: 2% auto;
     padding: 0;
     box-sizing: border-box;
     font-family: 'ROBOTO', sans-serif! important;
 }
-#menu-title{
+
+.menu-title {
     list-style-type: none;
     background-color: #ffffff;
 
 }
-#bloc{
+
+.bloc {
     margin-left: 70%;
     font-size: 20px;
 }
-#menu-title li{
-    display: inline;
-    
-}
-#menu-title li a{
 
+.menu-title li {
+    display: inline;
+}
+
+.menu-title li a {
     padding: 1%;
     color: #000000;
     text-decoration: none;
     display: inline-block;
 }
-#menu-title li a:hover{
 
+.menu-title li a:hover {
     background-color:#533E85;
 }
 
-#logo{
+.logo {
     text-align: center;
     margin-top: -2%;
     float: left;
     font-size: 5px;
     
 }
-#logo h1 {
+
+.logo h1 {
     color: #000000;
     float: right; 
     margin-top: 11%;
     font-size: 20px;
-
 }
-#logo img{
+
+.logo img {
     width: 80px;
     height: 80px;
     mix-blend-mode: multiply;
     margin-top: 1px;
     
 }
-#apres{
+
+.apres {
     font-size: 16px;
     margin-left: 130px;
     color: #ffffff;
 }
-#part{
+
+.part {
     text-align: center;
     color: #ffffff;
     margin-top: -1%;
@@ -65,13 +70,14 @@ body{
     margin-left: 70px;
     width: 30%;
 }
-#part p{
+
+.part p {
     margin-top: -4%;
     font-size: 16px;
     margin-left: -5%;
 }
 
-.pr1{
+.pr1 {
     margin-bottom: 60px;
     margin-left: 60px;
     margin-right: 60px;
@@ -83,12 +89,14 @@ body{
     background: #4FD3C4;
     
 }
-.pr1 img{
+
+.pr1 img {
     width: 100%;
     height: 350px;
 
 }
-.pr2{
+
+.pr2 {
     margin-top: 8px;
     margin-right: 80px;
     align-self: center;
@@ -101,12 +109,9 @@ body{
     border: inset #4FD3C4;
    
 }
-.bt{
-margin-top: 10%;  
-}
 
-
-.bt1{
+.bt {
+    margin-top: 10%; 
     background-color: #4FD3C4;
     color: #ffffff;
     text-align: center;
@@ -114,26 +119,9 @@ margin-top: 10%;
     width: 200px;
     height: 30px;
     margin-bottom: 10%;
-    border: none;
-}
-   
-
-.bt1:hover{
-    background: #533E85
-    
-}
-.bt2{
-    background-color: #4FD3C4;
-    color: #ffffff;
-    text-align: center;
-    font-size: 14px;
-    width: 200px;
-    height: 30px;
-    margin-bottom: 10%;
-    border: none;
+    border: none; 
 }
 
-.bt2:hover{
-    background: #533E85
+.bt:hover {
+    background: #533E85 
 }
-
