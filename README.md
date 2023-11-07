@@ -11,10 +11,8 @@ Surge a necessidade de encontrar soluções criativas e eficazes para desafios c
 ## Integrantes
 
 * Aliane Elias Amaral
-* Gabriela Bretas Duarte Monteiro
 * João Gabriel Barrozo Rocha
 * Lucas Alves de Souza
-* Mylena Oliveira Silva
   
 ## Orientador
 
