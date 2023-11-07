@@ -111,7 +111,10 @@ body {
 }
 
 .bt {
-    margin-top: 10%; 
+margin-top: 10%;  
+}
+
+.bt a {
     background-color: #4FD3C4;
     color: #ffffff;
     text-align: center;
@@ -119,9 +122,11 @@ body {
     width: 200px;
     height: 30px;
     margin-bottom: 10%;
-    border: none; 
+    border: none;
 }
 
-.bt:hover {
+.bt a:hover {
     background: #533E85 
 }
+
+
