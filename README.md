@@ -34,7 +34,7 @@ Surge a necessidade de encontrar soluções criativas e eficazes para desafios c
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+<li><a href="https://geektreasures.vercel.app/">Geek Treasures</a></li>
 
 # Código-Fonte
 
