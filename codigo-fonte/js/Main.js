@@ -18,7 +18,7 @@ function signup(e){
     console.log('User cadastrado')
 
     setTimeout(function() {
-        window.location.href='../Pages/login.html';
+        window.location.href='../pages/login.html';
     }, 1000);
 }
 
@@ -32,7 +32,6 @@ function login(e){
     var user = localStorage.getItem(username);
     var data = JSON.parse(user);
     console.log(data);
-    console.log("Até aqui ta certo")
 
     if(user == null){
         alert("Usuário Inválido");
@@ -46,7 +45,6 @@ function login(e){
         }, 1000);
         }else{
             alert("Senha Inválidos");
-            console.log("2")
         }
 
 
