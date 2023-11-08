@@ -37,9 +37,7 @@ function login(e){
         alert("Usuário Inválido");
         console.log("1")
     }else if(username == data.username && password == data.password){
-        setTimeout(function() {
-            alert("Logado com sucesso");
-        }, 1000);
+        alert("Logado com sucesso");
         setTimeout(function() {
             window.location.href='../pages/minhacolecao.html';
         }, 1000);
