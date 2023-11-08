@@ -18,7 +18,7 @@ function signup(e){
     console.log('User cadastrado')
 
     setTimeout(function() {
-        window.location.href='../Pages/Login.html';
+        window.location.href='../Pages/login.html';
     }, 1000);
 }
 
