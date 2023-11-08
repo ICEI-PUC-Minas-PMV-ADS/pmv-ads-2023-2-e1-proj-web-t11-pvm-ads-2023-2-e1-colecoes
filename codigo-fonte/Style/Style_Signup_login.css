@@ -154,6 +154,7 @@ body {
     background-color: #9400FF;
     cursor: pointer;
     box-shadow: 0px 10px 40px -12px #0000004a;
+    transition: all 0.3s ease 0s;
 }
 
 .btn-login:hover {
