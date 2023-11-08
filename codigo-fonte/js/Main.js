@@ -27,7 +27,6 @@ function login(e){
 
     var username = document.getElementById('Login_user').value;
     var password = document.getElementById('Login_password').value;
-    var result = document.getElementById('result')
 
     var user = localStorage.getItem(username);
     var data = JSON.parse(user);
