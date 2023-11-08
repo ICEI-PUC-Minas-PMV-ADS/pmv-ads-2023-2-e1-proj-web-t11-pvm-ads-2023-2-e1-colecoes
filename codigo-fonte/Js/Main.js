@@ -42,7 +42,7 @@ function login(e){
             alert("Logado com sucesso");
         }, 1000);
         setTimeout(function() {
-            window.location.href='../index.html';
+            window.location.href='../pages/minhacolecao.html';
         }, 1000);
         }else{
             alert("Senha Inválidos");
