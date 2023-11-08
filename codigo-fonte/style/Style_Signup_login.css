@@ -52,8 +52,9 @@ body {
 
 .login-card {
     width: 60%;
+    margin-right: 10%;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;  
     flex-direction: column;
     padding: 15px 20px;
