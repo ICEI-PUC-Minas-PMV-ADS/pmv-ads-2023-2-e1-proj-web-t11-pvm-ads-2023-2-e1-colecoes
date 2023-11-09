@@ -14,11 +14,12 @@
 }
 
 body {
+    z-index: 10;
     background-color: #15121d;
 }
 
 .side-menu {
-    width: 200px;
+    width: 250px;
     height: 100vh;
     color: #FFF;
     background-color: rgba(0, 0, 0, 0.344);
@@ -66,6 +67,70 @@ body {
     color: #15121d;
     background-color: #42eaba;
     box-shadow: 0px 10px 40px -12px #42eaba;
+}
+
+.cadastro-itens {
+    width: 250px;
+    height: 100vh;
+    color: #FFF;
+    background-color: rgba(40, 40, 40, 0.344);
+    display: flex;
+    justify-content: center;
+    box-shadow: 0px 10px 40px -12px #0000004a;
+    
+}
+
+.cadastro-itens h1 {
+    margin-top: 10%;
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-style: italic;
+    color: #FFF;
+    text-transform: uppercase;
+}
+
+.cadastro-itens form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 10px 0px;
+}
+
+.cadastro-itens form input {
+    width: 95%;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 5px;
+    background: #372f4b;
+    color: #FFF;
+    font-size: 8pt;
+    box-shadow: 0px 10px 40px #0000004a;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.cadastro-itens form .input-img {
+    color: #FFF;
+}
+
+.cadastro-itens form .btn-save button {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 25px;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    letter-spacing: 1px;
+    color: #ddf9f1;
+    background-color: #9400FF;
+    cursor: pointer;
+    box-shadow: 0px 10px 40px -12px #0000004a;
+    transition: all 0.3s ease 0s;
+    text-transform: uppercase;
+    font-style: italic;
 }
 
 .list-itens {
