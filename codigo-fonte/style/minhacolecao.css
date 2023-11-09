@@ -85,7 +85,7 @@ body {
 
 .itensColecao{
     color: #FFF;
-    font-size: 10px;
+    font-size: auto;
     display: flex;
     justify-content: flex-start;
     align-items: center;  
