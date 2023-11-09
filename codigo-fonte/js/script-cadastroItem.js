@@ -1,4 +1,4 @@
-function cadastrar() {
+function cadastrar(e) {
 if (tituloDoItem.value == "") {
 alert("Preencha o título do item corretamente!");
 tituloDoItem.focus();
