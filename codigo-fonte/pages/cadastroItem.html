@@ -31,16 +31,9 @@
       </div>
       <form onsubmit="return false" >
           <div class="row">
-            <input class="input-form" type="text" name="tituloDoItem" id="tituloDoItem" placeholder="Título do Item"/>            
-          </div>
-          <div class="row">
-            <input class="input-form" type="text" name="categoria" id="categoria" placeholder="Categoria"/>            
-          </div>
-          <div class="row">
-            <input class="input-form" type="text" id="descricao" placeholder="Descrição"/>                     
-          </div>
-          <div class="row">
-            <input class="input-form" type="file" id="imagem" placeholder="Selecionar Imagem">            
+            <input class="input-form" type="text" name="tituloDoItem" id="tituloDoItem" placeholder="Título do Item" required/>            
+            <input class="input-form" type="text" name="categoria" id="categoria" placeholder="Categoria" required/>                               
+            <input class="input-form" type="file" id="imagem" placeholder="Selecionar Imagem" required/>            
           </div>
           <div class="row center-row">
             <button onclick="cadastrar()" class="button-form" type="submit">Salvar</button>             
