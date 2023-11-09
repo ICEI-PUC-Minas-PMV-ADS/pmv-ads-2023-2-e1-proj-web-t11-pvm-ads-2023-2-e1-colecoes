@@ -124,7 +124,7 @@ body {
 
 .itensColecao .adjust-buttons button:hover{
     background-color: #42eaba;
-    box-shadow: 0px 10px 40px -12px #42eaba;
+    box-shadow: 0px 0px 15px #42eaba;
 }
 
 .itensColecao .adjust-buttons button i {
