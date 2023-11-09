@@ -1,20 +1,4 @@
 function cadastrar() {
-  if (tituloDoItem.value == "") {
-      alert("Preencha o título do item corretamente!");
-      tituloDoItem.focus();
-      return;
-    }
-    
- 
-    if (categoria.value == "") {
-      alert("Preencha a categoria corretamente!");
-      categoria.focus();
-      return;
-    }
-    
-     
-  
-
     let listaItens = JSON.parse(localStorage.getItem('listaItens') || '[]')
   
     listaItens.push(
