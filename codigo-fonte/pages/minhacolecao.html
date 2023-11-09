@@ -1,39 +1,30 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta id="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Minhas Coleções</title>
-  <link rel="stylesheet" href="../style/cadastroItem.css">
-  <link rel="stylesheet" href="../style/minhacolecao.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,900&display=swap" rel="stylesheet">
-</head>
-<body>
-    <ul id="menu-title">
-      <div id="logo">
-          <img src="../paginaInicial/IMG/logo-black.png">
-          <h1>GEEK TREASURES</h1>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta id="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Minhas Coleções</title>
+    <link rel="stylesheet" href="../style/minhacolecao.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,300&display=swap" rel="stylesheet"/>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+  </head>
+  <body>
+    <div class="main">
+      <div class="side-menu">
+        <div class="menu-itens">
+          <h1>MINHAS COLEÇÕES</h1>
+          <button class="btn-menu"><a href="./cadastroItem.html">CADASTRAR ITEM</a></button>
+          <button class="btn-menu"><a href="../index.html">SAIR</a></button>
         </div>
-        <div id="bloc">
-        <li><a href="../index.html"> Páginal Inicial</a></li>
-        <li><a href="">Quem Somos</a></li>
       </div>
-    </ul>
-    <br>
-    <div id="bodyMinhaColecao" class="bodyMinhaColecao">
-        <div class="row">
-            <h1>Minhas Coleções</h1>
-          </div>
-          <div class="row">
-            <input class="button-form"  type="button" value="CRIAR NOVO ITEM" onclick="window.location.href='./cadastroItem.html';"/>             
-          </div>
-        <div class="listagemItens" id="listagemItens">                  
-
-        </div>
+      <div class="list-itens">
+        <div class="listagemItens" id="listagemItens"></div>
+      </div>
     </div>
+
     <script src="../js/script-minhaColecao.js"></script>
-</body>
+  </body>
 </html>
