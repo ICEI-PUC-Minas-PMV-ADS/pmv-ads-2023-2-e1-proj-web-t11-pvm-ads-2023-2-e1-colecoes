@@ -86,16 +86,53 @@ body {
 .itensColecao{
     color: #FFF;
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
     align-items: center;  
     flex-direction: column;
     padding: 15px 20px;
-    background: #221d2f;
+    background: rgba(0, 0, 0, 0.142);
     border-radius: 25px;
-    box-shadow: 0px 0px 40px #00000035;
+    box-shadow: 0px 0px 20px rgba(73, 6, 80, 0.208);
     margin-left: 20%;
 }
 
+.itensColecao img {
+    margin-bottom: 20px;
+    border-radius: 15%;
+    box-shadow: 0px 0px 5px #00000035;
+
+}
+
+.itensColecao .adjust-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3px;
+}
+
+.itensColecao .adjust-buttons button {
+    margin: 5px;
+    padding: 2px 2px;
+    border: none;
+    border-radius: 7px;
+    outline: none;
+    background-color: #9400FF;
+    cursor: pointer;
+    box-shadow: 0px 0px 5px #0000004a;
+    transition: all 0.3s ease 0s;
+}
+
+.itensColecao .adjust-buttons button:hover{
+    background-color: #42eaba;
+    box-shadow: 0px 10px 40px -12px #42eaba;
+}
+
+.itensColecao .adjust-buttons button i {
+    color: #FFF;
+    cursor: pointer;
+    font-size: 20px;
+}
+
 .itensColecao:hover {
-    box-shadow: 0px 0px 40px -12px #42eaba;
+    box-shadow: 0px 0px 40px -12px #FFF;
 }

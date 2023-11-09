@@ -8,7 +8,11 @@ document.addEventListener('DOMContentLoaded', function() {
         <img src='${objeto.imagem}' width='93' height='84' alt='Descrição da imagem'>
         <h4 class='text-white'>${objeto.tituloDoItem}</h4>
         <p>${objeto.categoria}</p>
-     </div>   `
+        <div class="adjust-buttons">
+        <button><i class='bx bx-edit'></i></button>
+        <button><i class='bx bx-trash'></i></button>
+        </div>
+        </div>`
             listagemItensAtual += itemHtml
     }
 

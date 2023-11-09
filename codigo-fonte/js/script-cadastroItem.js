@@ -37,25 +37,3 @@ function cadastrar() {
       window.location.href='../pages/minhacolecao.html';
     }, 1000);
 }
-const imageInput = document.getElementById("imagem");
-
-imageInput.addEventListener("change", handleImageSelection);
-
-let selectedImageBase64 = null;
-
-function handleImageSelection() {
-    const selectedFile = imageInput.files[0];
-    if (selectedFile) {
-        const reader = new FileReader();
-
-        reader.onload = function (event) {
-            selectedImageBase64 = event.target.result;
-
-            const imgElement = document.getElementById("imagemSelecionada");
-            imgElement.src = selectedImageBase64;
-          };
-          
-        reader.readAsDataURL(selectedFile);
-    }
-}
-
