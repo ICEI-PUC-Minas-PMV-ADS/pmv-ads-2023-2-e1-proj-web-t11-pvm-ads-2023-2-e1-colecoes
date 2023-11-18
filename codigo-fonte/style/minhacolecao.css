@@ -26,6 +26,7 @@ body {
     display: flex;
     justify-content: flex-start;
     box-shadow: 0px 10px 40px -12px #0000004a;
+    position: fixed;
 }
 
 .menu-itens {
@@ -78,6 +79,7 @@ body {
     display: flex;
     justify-content: center;
     box-shadow: 0px 10px 40px -12px #0000004a;
+    position: fixed;
     
 }
 
@@ -202,4 +204,31 @@ body {
 
 .itensColecao:hover {
     box-shadow: 0px 0px 40px -12px #FFF;
+}
+
+tbody {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+tr {
+    background-color: #ddf9f1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-right: 10px;
+    color: #FFF;
+    padding: 15px 20px;
+    background: rgba(0, 0, 0, 0.142);
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px rgba(73, 6, 80, 0.208);
+
+}
+
+td {
+    display: flex;
+    flex-direction: column;
 }

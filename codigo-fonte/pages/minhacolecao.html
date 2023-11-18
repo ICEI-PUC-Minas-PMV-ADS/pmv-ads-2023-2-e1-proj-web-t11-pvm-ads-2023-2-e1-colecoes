@@ -23,24 +23,35 @@
       <div class="cadastro-itens">
         <div class="menu-itens">
           <h1>cadastro</h1>
-          <form onsubmit="return false" >
+          <form>
             <div class="row">
-              <input class="input-form" type="text" name="tituloDoItem" id="tituloDoItem" placeholder="Título do Item" required/>            
-              <input class="input-form" type="text" name="categoria" id="categoria" placeholder="Categoria" required/>                               
-              <input class="input-img" type="file" id="imagem" required/>            
+              <input class="input-form" type="text" name="titulo_item" id="titulo_item" placeholder="Título do Item" />            
+              <input class="input-form" type="text" name="categoria_item" id="categoria_item" placeholder="Categoria" />                               
+              <input class="input-img" type="file" id="imagem_item" />            
             </div>
             <div class="btn-save">
-              <button onclick="cadastrar(event)" class="button-form" type="submit">Salvarr</button>             
+              <button onclick="add_itens()" class="button-form" type="submit" id="submit">Salvar</button> 
+              <button class="button-form" type="submit" id="update">Atualizar</button>           
             </div>
           </form>
         </div>
       </div>
       <div class="list-itens">
-        <div class="listagemItens" id="listagemItens"></div>
+        <table class="table" id="crudtable">
+          <thead>
+            <tr>
+              <th>Imagen</th>
+              <th>Titulo</th>
+              <th>Categoria</th>
+              <th>Ações</th>
+            </tr>
+            <tbody></tbody>
+          </thead>
+        </table>
       </div>
     </div>
 
-    <script src="../js/script-minhaColecao.js"></script>
+    <script src="../js/do0.js"></script>
   </body>
 </html>
 

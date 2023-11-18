@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <p>${objeto.categoria}</p>
         <div class="adjust-buttons">
         <button><i class='bx bx-edit'></i></button>
-        <button><i class='bx bx-trash'></i></button>
+        <button onclick="deleteData(' + index +')"><i class='bx bx-trash'></i></button>
         </div>
         </div>`
             listagemItensAtual += itemHtml
@@ -19,3 +19,16 @@ document.addEventListener('DOMContentLoaded', function() {
     document.getElementById("listagemItens").innerHTML = listagemItensAtual
       
 });
+
+function deleteData(index){
+    var listaItens;
+    if (localStorage.getItem('listaItens') == null) {
+        listaItens = [];
+    }else {
+        listaItens = JSON.parse(localStorage.getItem("listaitens"));
+    }
+
+    listaItens.splice(index);
+    localStorage.getItem('listaitens', JSON.stringify(listaItens));
+    showData();
+}
