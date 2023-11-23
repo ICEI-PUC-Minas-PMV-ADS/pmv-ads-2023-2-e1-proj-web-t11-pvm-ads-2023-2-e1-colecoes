@@ -18,10 +18,14 @@ body {
 }
 
 .side-menu {
-    width: 200px;
+    z-index: 0;
+    width: 250px;
     height: 100vh;
     color: #FFF;
     background-color: rgba(0, 0, 0, 0.344);
+    /* position: fixed;
+    top: 0;
+    left: 0; */
     display: flex;
     justify-content: flex-start;
     box-shadow: 0px 10px 40px -12px #0000004a;
@@ -31,6 +35,7 @@ body {
     display: flex;
     flex-direction: column;
     margin-left: 10px;
+    margin-right: 10px;
     align-items: center;
     color: #000;
 }
@@ -68,6 +73,7 @@ body {
     box-shadow: 0px 10px 40px -12px #42eaba;
 }
 
+
 .list-itens {
     margin-top: 5%;
     margin-left: 1%;
@@ -76,14 +82,14 @@ body {
     height: 100vh;
 }
 
-.list-itens .listagemItens{
+/* .list-itens .listagemItens{
     width: 100px;
-    height: 200px;
+    height: 195px;
     display: flex;
     justify-content: flex-start;
-}
+} */
 
-.itensColecao{
+/* .itensColecao{
     color: #FFF;
     font-size: 14px;
     display: flex;
@@ -91,28 +97,43 @@ body {
     align-items: center;  
     flex-direction: column;
     padding: 15px 20px;
+    background: rgba(231, 8, 8, 0.142);
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px rgba(73, 6, 80, 0.208);
+    margin-left: 80%;
+} */
+
+tbody {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+tr {
+    /* background-color: #ddf9f1; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-right: 10px;
+    color: #FFF;
+    padding: 15px 20px;
     background: rgba(0, 0, 0, 0.142);
     border-radius: 25px;
     box-shadow: 0px 0px 20px rgba(73, 6, 80, 0.208);
-    margin-left: 20%;
+
 }
 
-.itensColecao img {
-    margin-bottom: 20px;
-    border-radius: 15%;
+tr img {
+    margin-bottom: 2px;
+    border-radius: 5%;
     box-shadow: 0px 0px 5px #00000035;
 
 }
 
-.itensColecao .adjust-buttons {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 3px;
-}
-
-.itensColecao .adjust-buttons button {
-    margin: 5px;
+tr button {
+    margin: 3px;
     padding: 2px 2px;
     border: none;
     border-radius: 7px;
@@ -123,17 +144,12 @@ body {
     transition: all 0.3s ease 0s;
 }
 
-.itensColecao .adjust-buttons button:hover{
+tr button:hover {
     background-color: #42eaba;
     box-shadow: 0px 0px 15px #42eaba;
 }
 
-.itensColecao .adjust-buttons button i {
-    color: #FFF;
-    cursor: pointer;
-    font-size: 20px;
-}
-
-.itensColecao:hover {
-    box-shadow: 0px 0px 40px -12px #FFF;
+td {
+    display: flex;
+    flex-direction: column;
 }
