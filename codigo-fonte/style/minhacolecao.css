@@ -14,7 +14,6 @@
 }
 
 body {
-    z-index: 10;
     background-color: #15121d;
 }
 
@@ -26,7 +25,6 @@ body {
     display: flex;
     justify-content: flex-start;
     box-shadow: 0px 10px 40px -12px #0000004a;
-    position: fixed;
 }
 
 .menu-itens {
@@ -35,6 +33,7 @@ body {
     margin-left: 10px;
     align-items: center;
     color: #000;
+    position: fixed;
 }
 
 .menu-itens h1 {
@@ -70,71 +69,6 @@ body {
     box-shadow: 0px 10px 40px -12px #42eaba;
 }
 
-.cadastro-itens {
-    display: none;
-    width: 250px;
-    height: 100vh;
-    color: #FFF;
-    background-color: rgba(40, 40, 40, 0.344);
-    display: flex;
-    justify-content: center;
-    box-shadow: 0px 10px 40px -12px #0000004a;
-    position: fixed;
-    
-}
-
-.cadastro-itens h1 {
-    margin-top: 10%;
-    margin-bottom: 30px;
-    font-size: 20px;
-    font-style: italic;
-    color: #FFF;
-    text-transform: uppercase;
-}
-
-.cadastro-itens form {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-    margin: 10px 0px;
-}
-
-.cadastro-itens form input {
-    width: 95%;
-    border: none;
-    border-radius: 10px;
-    padding: 10px;
-    margin-bottom: 5px;
-    background: #372f4b;
-    color: #FFF;
-    font-size: 8pt;
-    box-shadow: 0px 10px 40px #0000004a;
-    outline: none;
-    box-sizing: border-box;
-}
-
-.cadastro-itens form .input-img {
-    color: #FFF;
-}
-
-.cadastro-itens form .btn-save button {
-    width: 100%;
-    padding: 10px 20px;
-    margin: 25px;
-    border: none;
-    border-radius: 10px;
-    outline: none;
-    letter-spacing: 1px;
-    color: #ddf9f1;
-    background-color: #9400FF;
-    cursor: pointer;
-    box-shadow: 0px 10px 40px -12px #0000004a;
-    transition: all 0.3s ease 0s;
-    text-transform: uppercase;
-    font-style: italic;
-}
 
 .list-itens {
     margin-top: 5%;
@@ -159,51 +93,10 @@ body {
     align-items: center;  
     flex-direction: column;
     padding: 15px 20px;
-    background: rgba(0, 0, 0, 0.142);
+    background: rgba(231, 8, 8, 0.142);
     border-radius: 25px;
     box-shadow: 0px 0px 20px rgba(73, 6, 80, 0.208);
-    margin-left: 20%;
-}
-
-.itensColecao img {
-    margin-bottom: 20px;
-    border-radius: 15%;
-    box-shadow: 0px 0px 5px #00000035;
-
-}
-
-.itensColecao .adjust-buttons {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 3px;
-}
-
-.itensColecao .adjust-buttons button {
-    margin: 5px;
-    padding: 2px 2px;
-    border: none;
-    border-radius: 7px;
-    outline: none;
-    background-color: #9400FF;
-    cursor: pointer;
-    box-shadow: 0px 0px 5px #0000004a;
-    transition: all 0.3s ease 0s;
-}
-
-.itensColecao .adjust-buttons button:hover{
-    background-color: #42eaba;
-    box-shadow: 0px 0px 15px #42eaba;
-}
-
-.itensColecao .adjust-buttons button i {
-    color: #FFF;
-    cursor: pointer;
-    font-size: 20px;
-}
-
-.itensColecao:hover {
-    box-shadow: 0px 0px 40px -12px #FFF;
+    margin-left: 80%;
 }
 
 tbody {
@@ -213,7 +106,7 @@ tbody {
 }
 
 tr {
-    background-color: #ddf9f1;
+    /* background-color: #ddf9f1; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -226,6 +119,30 @@ tr {
     border-radius: 25px;
     box-shadow: 0px 0px 20px rgba(73, 6, 80, 0.208);
 
+}
+
+tr img {
+    margin-bottom: 2px;
+    border-radius: 5%;
+    box-shadow: 0px 0px 5px #00000035;
+
+}
+
+tr button {
+    margin: 3px;
+    padding: 2px 2px;
+    border: none;
+    border-radius: 7px;
+    outline: none;
+    background-color: #9400FF;
+    cursor: pointer;
+    box-shadow: 0px 0px 5px #0000004a;
+    transition: all 0.3s ease 0s;
+}
+
+tr button:hover {
+    background-color: #42eaba;
+    box-shadow: 0px 0px 15px #42eaba;
 }
 
 td {
