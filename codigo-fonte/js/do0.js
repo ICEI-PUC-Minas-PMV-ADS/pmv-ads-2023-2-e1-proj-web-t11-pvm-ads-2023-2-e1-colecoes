@@ -129,7 +129,7 @@ function update_item(index){
         if(validar_campos() == true){
             lista_itens[index].titulo_item = document.getElementById("titulo_item").value;
             lista_itens[index].categoria_item = document.getElementById("categoria_item").value;
-            lista_itens[index].imagem_item = document.getElementById("imagem_item").value;
+            lista_itens[index].imagem_item = selectedImageBase64;
 
             localStorage.setItem("lista_itens", JSON.stringify(lista_itens));
             atualizar_itens()
