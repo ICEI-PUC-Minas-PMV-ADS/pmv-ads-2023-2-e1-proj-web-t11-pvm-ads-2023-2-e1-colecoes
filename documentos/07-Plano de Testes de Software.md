@@ -99,7 +99,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-05: Verificar o login de usuários</td>
+  <td>CT-04: Verificar o login de usuários</td>
   <td>
    <ul>
    <li>RF-002: O site deve permitir ao usuário fazer o login da sua conta.</li>
@@ -129,13 +129,13 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
   <tr>
-  <td>CT-06: Verificar o cadastro de livros</td>
+  <td>CT-05: Verificar o cadastro de itens</td>
   <td>
    <ul>
-   <li>RF-004	O site deve permitir ao usuário fazer o cadastro de livros.</li>
+   <li>RF-004	O site deve permitir ao usuário fazer o cadastro de itens.</li>
    </ul>
   </td>
-  <td>Verificar se o cadastro de livros está sendo feito corretamente. </td>
+  <td>Verificar se o cadastro de item está sendo feito corretamente. </td>
   <td>
    <ol>
     <li>Acessar o navegador.</li>
@@ -144,14 +144,14 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
     <li>Clicar em “Entrar”, no menu.</li>
     <li>Preencher seus dados e clicar em “Entrar”.</li>
     <li>Visualizar a página Perfil.</li>
-    <li>Clicar em “Cadastro de livros”, no menu.</li>
-    <li>Visualizar a página Cadastro de Livros.</li>
-    <li>Inserir as informações sobre o livro.</li>
+    <li>Clicar em “Cadastro de coleção”, no menu.</li>
+    <li>Visualizar a página Cadastro de Coleção.</li>
+    <li>Inserir as informações sobre o item.</li>
     <li>Clicar em “Cadastrar”.</li>
    </ol>
    </td>
-  <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Livro cadastrado com sucesso".</td>
-  <td>João</td>
+  <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer o item cadastrado.</td>
+  <td>Lucas</td>
  </tr>
 </table>
 
@@ -187,7 +187,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Tutoria cadastrada com sucesso".</td>
-  <td>Beatriz</td>
+  <td>Lucas</td>
  </tr>
 </table>
  
