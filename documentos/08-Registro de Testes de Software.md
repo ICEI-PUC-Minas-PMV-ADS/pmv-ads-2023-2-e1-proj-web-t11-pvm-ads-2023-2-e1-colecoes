@@ -4,7 +4,7 @@ Relatório com as evidências dos testes de software realizados na aplicação p
 
 Os resultados dos testes funcionais realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste executado]
 
-CT-01: Verificar o funcionamento dos links da página Home
+CT-01: Verificar o funcionamento dos links da página Home </br>
 Responsável: Lucas.
 
 
