@@ -12,7 +12,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads
 
 
 CT-02: Verificar o cadastro de usuários </br>
-Responsável: João.
+Responsável: Aliane.
 
 
 
@@ -20,7 +20,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads
 
 
 
-CT-03: Verificar o login de usuários </br>
+CT-03: Site deve permitir que o usuario faça um cadastro. </br>
 Responsável: Aliane.
 
 
@@ -29,8 +29,8 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads
 
 
 
-CT-04: Verificar o funcionamento dos links da página Home </br>
-Responsável: Lucas.
+CT-04: Teste na obrigatoriedade dos campos preenchidos </br>
+Responsável: Aliane.
 
 
 
@@ -38,7 +38,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads
 
 
 
-CT-05: Verificar o funcionamento dos links da página Home </br>
+CT-05: Verificar o login de usuários </br>
 Responsável: Lucas.
 
 
@@ -47,7 +47,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads
 
 
 
-CT-06: Verificar o funcionamento dos links da página Home </br>
+CT-06: Verificar o cadastro de itens. </br>
 Responsável: Lucas.
 
 
@@ -56,8 +56,8 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads
 
 
 
-CT-07: Verificar o funcionamento dos links da página Home </br>
-Responsável: Lucas.
+CT-07: Teste botão de alterar itens. </br>
+Responsável: João.
 
 
 
@@ -65,8 +65,8 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads
 
 
 
-CT-08: Verificar o funcionamento dos links da página Home </br>
-Responsável: Lucas.
+CT-08: Teste botão de exluir itens. </br>
+Responsável: João.
 
 
 
@@ -74,8 +74,8 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads
 
 
 
-CT-09: Verificar o funcionamento dos links da página Home </br>
-Responsável: Lucas.
+CT-09: Teste de visualização de item. </br>
+Responsável: João.
 
 
 
