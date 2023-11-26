@@ -42,7 +42,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    <ul>
     <li>RF-001:	O site deve permitir ao usuário cadastrar uma conta.</li>
    <li>RF-002:	O site deve permitir ao usuário fazer o login da sua conta.</li>
-    <li>RF-007:	O site deve permitir ao usuário visualizar os detalhes do livro.</li>
    </ul>
   </td>
   <td>Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente</td>
@@ -69,14 +68,13 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>  
  </tr>
  <tr>
-  <td>CT-03: Verificar detalhes dos itens</td>
+  <td>CT-02: Verificar detalhes dos itens</td>
   <td>
    <ul>
-    <li>RF-006:	O site deve apresentar, para cada item, uma imagem correspondente à capa.</li>
-    <li>RF-007:	O site deve permitir ao usuário visualizar os detalhes do item.</li>
+    <li>RF-003:	Todos os campos no cadastro e login devem ser obrigatórios..</li>
    </ul>
   </td>
-  <td>Verificar se todas as informações referentes ao colecionavel estão disponíveis na página Livros</td>
+  <td>Verificar se todas as informações referentes dos campos obrigatorios estão preechidos.</td>
   <td>
    <ol>
     <li>Acessar o navegador.</li>
@@ -118,7 +116,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Usuário cadastrado com sucesso".</td>
-  <td>Silvia</td>
+  <td>João</td>
  </tr>
 </table>
 
