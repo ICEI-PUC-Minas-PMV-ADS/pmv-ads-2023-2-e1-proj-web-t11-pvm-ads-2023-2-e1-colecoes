@@ -6,8 +6,12 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
-|  | Descrever resultados do teste  |
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/assets/90305152/f6e7da0c-805e-44c5-8fc3-e753b25303ec
+|  
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/assets/90305152/3c104cfe-84d5-45f4-a867-ea25d85abe61
+
+ | Descrever resultados do teste  |
+
 | Responsável pela execução do caso de Teste | Nome do integrante da equipe |
 
 
