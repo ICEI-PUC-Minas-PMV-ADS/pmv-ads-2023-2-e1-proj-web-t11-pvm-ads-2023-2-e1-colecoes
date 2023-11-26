@@ -18,6 +18,15 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 > - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+
+<span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/02-Especificação%20do%20Projeto.md"> Especificação do Projeto</a></span>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/04-Projeto%20de%20Interface.md"> Projeto de Interface</a>
+
+Os requisitos para realização dos testes de software são:
+<ul><li>Site publicado na internet;</li>
+<li>Navegador da internet: Chrome, Firefox ou Edge.</li>
+</ul>
+
+Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 <table>
  <tr>
   <th>Caso de teste</th>
