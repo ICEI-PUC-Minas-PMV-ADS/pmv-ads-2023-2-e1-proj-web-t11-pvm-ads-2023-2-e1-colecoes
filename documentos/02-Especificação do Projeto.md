@@ -100,7 +100,7 @@ Ter acesso ao seu perfil próprio, onde consiga visualizar seus catálogos, amig
 | RF-22 |O botão de Adicionar Novo Item só poderá aparecer quando o usuário estiver na tela dentro de uma pasta. |Alta |
 | RF-23 | A tela de Adicionar Novo Item deverá ter os campos: Título do Item; Categoria; Inserir Imagem. |Alta |
 | RF-24 | A tela de Alterar Item deverá ter os campos: Título do Item; Categoria; Inserir Imagem.  |Alta |
-| RF-25 | O botaão de Excluir Item deverá excluir o item do card.   |Média |
+| RF-25 | O botão de Excluir Item deverá excluir o item do card.   |Média |
 | RF-26 | A tela de Visualizar Item permitirá o usuário visualizar os campos: Imagem do item; Título do Item; Categoria.   |Média |
 
 
