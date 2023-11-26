@@ -192,6 +192,113 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+  <tr>
+  <td>CT-06: Teste botão de alterar itens. </td>
+  <td>
+   <ul>
+   <li>RF-001	A tela de Alterar Item deverá ter os campos: Título do Item; Categoria; Inserir Imagem.</li>
+   </ul>
+  </td>
+  <td>Verificar se o inserir imagem do item está sendo feito corretamente. </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar em “Entrar”, no menu.</li>
+    <li>Preencher seus dados e clicar em “Entrar”.</li>
+    <li>Visualizar a página Perfil.</li>
+    <li>Clicar em “Cadastro de coleção”, no menu.</li>
+    <li>Visualizar a página Cadastro de Coleção.</li>
+    <li>Inserir as informações sobre o item.</li>
+    <li>Clicar em “Cadastrar”.</li>
+   </ol>
+   </td>
+  <td>Deve ocorrer uma atualização das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer o item cadastrado.</td>
+  <td>Lucas</td>
+ </tr>
+</table>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+  <tr>
+  <td>CT-08: Teste botão de exluir itens. </td>
+  <td>
+   <ul>
+   <li>RF-001	O botão de Excluir Item deverá excluir o item do card.</li>
+   </ul>
+  </td>
+  <td>Apos clicar em exluir o utem cadastrado deve ser apagado sem mensagem de confirmação. </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar em “Entrar”, no menu.</li>
+    <li>Preencher seus dados e clicar em “Entrar”.</li>
+    <li>Visualizar a página Perfil.</li>
+    <li>Clicar em “Cadastro de coleção”, no menu.</li>
+    <li>Visualizar a página Cadastro de Coleção.</li>
+    <li>Inserir as informações sobre o item.</li>
+    <li>Clicar em “Cadastrar”.</li>
+   </ol>
+   </td>
+  <td>Deve ocorrer uma atulização da pagina e remover visualmente deixando o local em branco com as opções anteriores de cadastratar novo item.</td>
+  <td>Lucas</td>
+ </tr>
+</table>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+  <tr>
+  <td>CT-09: </td>
+  <td>
+   <ul>
+   <li>RF-001	A tela de Visualizar Item permitirá o usuário visualizar os campos: Imagem do item; Título do Item; Categoria.</li>
+   </ul>
+  </td>
+  <td>Verificar se o cadastro de item está sendo feito corretamente. </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar em “Entrar”, no menu.</li>
+    <li>Preencher seus dados e clicar em “Entrar”.</li>
+    <li>Visualizar a página Perfil.</li>
+    <li>Clicar em “Cadastro de coleção”, no menu.</li>
+    <li>Visualizar a página Cadastro de Coleção.</li>
+    <li>Inserir as informações sobre o item.</li>
+    <li>Clicar em “Cadastrar”.</li>
+   </ol>
+   </td>
+  <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer o item cadastrado.</td>
+  <td>Lucas</td>
+ </tr>
+</table>
 
 <table>
  <tr>
