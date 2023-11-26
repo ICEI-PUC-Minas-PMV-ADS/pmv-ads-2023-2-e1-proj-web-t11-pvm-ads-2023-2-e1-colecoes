@@ -98,10 +98,10 @@ Ter acesso ao seu perfil próprio, onde consiga visualizar seus catálogos, amig
 | RF-20 |A tela Meus Amigos deve ter a relação dos amigos adicionados do usuário, apresentando sobre eles: Nome de Usuário; Foto. |Média |
 | RF-21 |A tela interna de uma pasta deve apresentar os botões: Filtrar Pastas por Ordem Alfabética e Adicionar Novo Item. |Média |
 | RF-22 |O botão de Adicionar Novo Item só poderá aparecer quando o usuário estiver na tela dentro de uma pasta. |Alta |
-| RF-23 |A tela de Adicionar Novo Item deverá ter os campos: Título do Item; Categoria; Descrição; Data de Aquisição; História da Aquisição; Avaliação Pessoal; Origem/Autor. Os campos serão opcionais, exceto: Título do Item e Categoria. |Alta |
-| RF-24 |Ao clicar no nome de um usuário, a aplicação deve ser redirecionada para a tela de Perfil desse usuário.  |Média |
-| RF-25 |A tela Perfil de um usuário deverá ter: Nome do Usuário; Foto; Itens (separados pela categoria).   |Média |
-| RF-26 |A tela Perfil de um usuário deverá ter os botões: Adicionar Amigo e Remover Amigo.   |Média |
+| RF-23 | A tela de Adicionar Novo Item deverá ter os campos: Título do Item; Categoria; Inserir Imagem. |Alta |
+| RF-24 | A tela de Alterar Item deverá ter os campos: Título do Item; Categoria; Inserir Imagem.  |Alta |
+| RF-25 | O botaão de Excluir Item deverá excluir o item do card.   |Média |
+| RF-26 | A tela de Visualizar Item permitirá o usuário visualizar os campos: Imagem do item; Título do Item; Categoria.   |Média |
 
 
 **Prioridade: Alta / Média / Baixa. 
