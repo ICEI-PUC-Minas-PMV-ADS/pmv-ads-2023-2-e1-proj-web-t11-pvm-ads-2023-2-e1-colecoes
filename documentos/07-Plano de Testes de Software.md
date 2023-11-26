@@ -65,41 +65,10 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Objetivo do teste</th>
   <th>Passos</th>
   <th>Critérios de êxito</th>
-  <th>Responsável</th>  
- </tr>
- <tr>
-  <td>CT-02: Verificar detalhes dos itens</td>
-  <td>
-   <ul>
-    <li>RF-003:	Todos os campos no cadastro e login devem ser obrigatórios..</li>
-   </ul>
-  </td>
-  <td>Verificar se todas as informações referentes dos campos obrigatorios estão preechidos.</td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar na página Livros.</li>
-    <li>Visualizar as informações referentes aos livros disponíveis na página.</li>
-   </ol>
-   </td>
-  <td>Todas as informações, incluindo imagens dos items, referentes ao colecionavel estão disponíveis na página de cadastro.</td>
-  <td>João</td>
- </tr>
-</table>
-
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-04: Verificar o cadastro de usuários</td>
+  <td>CT-03: Verificar o cadastro de usuários</td>
   <td>
    <ul>
     <li>RF-001:	 O site deve permitir ao usuário cadastrar uma conta.</li>
@@ -147,7 +116,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Após o login, o usuário deverá ser redirecionado para a sua página de perfil.</td>
-  <td>Maria</td>
+  <td>Aliane</td>
  </tr>
 
  <table>
