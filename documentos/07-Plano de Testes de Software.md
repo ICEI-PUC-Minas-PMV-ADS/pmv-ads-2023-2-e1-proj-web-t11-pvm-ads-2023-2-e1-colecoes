@@ -42,7 +42,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    <ul>
     <li>RF-001:	O site deve permitir ao usuário cadastrar uma conta.</li>
    <li>RF-002:	O site deve permitir ao usuário fazer o login da sua conta.</li>
-   <li>RF-005:	O site deve permitir ao usuário disponibilizar informações das disciplinas de tutoria e suas informações para contato.</li>
     <li>RF-007:	O site deve permitir ao usuário visualizar os detalhes do livro.</li>
    </ul>
   </td>
@@ -67,48 +66,17 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Objetivo do teste</th>
   <th>Passos</th>
   <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
- <tr>
-  <td>CT-02: Verificar o funcionamento do filtro de pesquisa</td>
-  <td>
-   <ul>
-    <li>RF-003:	O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar livros e disciplinas das tutorias      disponíveis.</li>
-   </ul>
-  </td>
-  <td>Verificar se o filtro de pesquisa está recuperando os dados inseridos pelo usuário</td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar na página Livros.</li>
-    <li>Digitar no filtro de pesquisa algum dado presente na página Livros e verificar se o resultado é exibido na página.</li>
-   </ol>
-   </td>
-  <td>Os dados inseridos no filtro de pesquisa devem mostrar o livro onde há o dado informado.</td>
-  <td>Maria</td>
- </tr>
-</table>
-
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
   <th>Responsável</th>  
  </tr>
  <tr>
-  <td>CT-03: Verificar detalhes dos livros</td>
+  <td>CT-03: Verificar detalhes dos itens</td>
   <td>
    <ul>
-    <li>RF-006:	O site deve apresentar, para cada livro, uma imagem correspondente à capa.</li>
-    <li>RF-007:	O site deve permitir ao usuário visualizar os detalhes do livro.</li>
+    <li>RF-006:	O site deve apresentar, para cada item, uma imagem correspondente à capa.</li>
+    <li>RF-007:	O site deve permitir ao usuário visualizar os detalhes do item.</li>
    </ul>
   </td>
-  <td>Verificar se todas as informações referentes aos livros estão disponíveis na página Livros</td>
+  <td>Verificar se todas as informações referentes ao colecionavel estão disponíveis na página Livros</td>
   <td>
    <ol>
     <li>Acessar o navegador.</li>
@@ -118,7 +86,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
     <li>Visualizar as informações referentes aos livros disponíveis na página.</li>
    </ol>
    </td>
-  <td>Todas as informações, incluindo imagens das capas, referentes aos livros estão disponíveis na página Livros.</td>
+  <td>Todas as informações, incluindo imagens dos items, referentes ao colecionavel estão disponíveis na página de cadastro.</td>
   <td>João</td>
  </tr>
 </table>
