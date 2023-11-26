@@ -85,7 +85,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Usuário cadastrado com sucesso".</td>
-  <td>João</td>
+  <td>Aliane</td>
  </tr>
 </table>
 
@@ -188,7 +188,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer o item cadastrado.</td>
-  <td>Lucas</td>
+  <td>João</td>
  </tr>
 </table>
 
@@ -224,7 +224,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ocorrer uma atualização das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer o item cadastrado.</td>
-  <td>Lucas</td>
+  <td>João</td>
  </tr>
 </table>
 
@@ -260,7 +260,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ocorrer uma atulização da pagina e remover visualmente deixando o local em branco com as opções anteriores de cadastratar novo item.</td>
-  <td>Lucas</td>
+  <td>João</td>
  </tr>
 </table>
 
@@ -274,7 +274,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
   <tr>
-  <td>CT-09: </td>
+  <td>CT-09: Teste de visualização de item.</td>
   <td>
    <ul>
    <li>RF-001	A tela de Visualizar Item permitirá o usuário visualizar os campos: Imagem do item; Título do Item; Categoria.</li>
@@ -310,7 +310,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
   <tr>
-  <td>CT-055: Verificar a página de perfil de usuários cadastrados</td>
+  <td>CT-010: Verificar a página de perfil de usuários cadastrados</td>
   <td>
    <ul>
    <li>RF-001	O site deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login.</li>
@@ -330,6 +330,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>As informações registradas pelo usuário no momento do cadastro devem estar disponibilizadas na página Perfil.</td>
-  <td>Lucas</td>
+  <td>Aliane</td>
  </tr>
 </table>
