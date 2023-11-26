@@ -13,3 +13,73 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads
 
 CT-02: Verificar o funcionamento dos links da página Home </br>
 Responsável: Lucas.
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/assets/90305152/f8c20fd9-3a46-46ce-9079-9da86bb259d9
+
+
+
+CT-03: Verificar o funcionamento dos links da página Home </br>
+Responsável: Lucas.
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/assets/90305152/8a5b7a07-d713-43cd-88b7-aaa53e9e8782
+
+
+
+CT-04: Verificar o funcionamento dos links da página Home </br>
+Responsável: Lucas.
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/assets/90305152/28884ba6-216f-4bae-8646-56fc713427c3
+
+
+
+CT-05: Verificar o funcionamento dos links da página Home </br>
+Responsável: Lucas.
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/assets/90305152/528bd9f9-2066-434e-8adb-9feb37ee6fa5
+
+
+
+CT-06: Verificar o funcionamento dos links da página Home </br>
+Responsável: Lucas.
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/assets/90305152/1b6846a5-fa54-4016-9613-2efae55a92cf
+
+
+
+CT-07: Verificar o funcionamento dos links da página Home </br>
+Responsável: Lucas.
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/assets/90305152/694f2bc6-3e02-4ecc-9f22-a796802999c5
+
+
+
+CT-08: Verificar o funcionamento dos links da página Home </br>
+Responsável: Lucas.
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/assets/90305152/0783fc4b-ab5a-4853-9f01-13cea2835661
+
+
+
+CT-09: Verificar o funcionamento dos links da página Home </br>
+Responsável: Lucas.
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pvm-ads-2023-2-e1-colecoes/assets/90305152/cb982095-ba8a-429f-8b5a-90d928f3c18b
+
+
+
