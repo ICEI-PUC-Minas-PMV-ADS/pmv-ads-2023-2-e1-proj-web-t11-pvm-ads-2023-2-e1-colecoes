@@ -11,11 +11,6 @@
 
 <br>
 
-## Vídeo de Apresentação das Funcionalidades
-
-<video src="./1210.mp4"></video>
-<br>
-
 
 ## Hospedagem
 
